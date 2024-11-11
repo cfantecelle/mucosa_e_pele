@@ -1,22 +1,18 @@
 ---
 layout: page
-subheadline:  "Headers With Style"
-title:  "Teste teste"
-teaser: "Feeling Responsive allows you to use all kinds of headers. This example shows <em>no</em> header at all. Just the navigation."
+subheadline:  "Notícias"
+title:  "O site do GEMP nasceu!"
+teaser: "O site doGrupo de Estudos em Mucosas e Pele está sendo criado aos poucos..."
 categories:
-    - design
+    - Notícias
 tags:
-    - design
-    - background color
-    - header
+    - Notícias
+    - Criação
+    - Site
 header: no
 ---
-*Silence is beautiful.* Sometimes you just want no distractions at all. Whether you like the content to speak for itself or enjoy pure typography on a plain background: *Feeling Responsive* got you covered. Just say *no* like this:
-<!--more-->
 
-~~~
-header: no
-~~~
+Teste teste *teste* **teste**.
 
 
 ### All Header-Styles
