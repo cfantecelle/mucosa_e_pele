@@ -6,6 +6,14 @@
   url: "/info/"
   side: left
 
+- title: Publicações
+  url: "/publications/"
+  side: left
+
+- title: Integrantes
+  url: "/group/"
+  side: left
+
 - title: Notícias
   url: "/blog/"
   side: left
