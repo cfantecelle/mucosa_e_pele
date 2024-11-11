@@ -30,7 +30,7 @@ baseurl: '/mucosa_e_pele'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/cfantecelle/mucosa_e_pele/edit/gh-pages
+#improve_content: https://github.com/cfantecelle/mucosa_e_pele/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -80,7 +80,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'en'
+language: 'pt-br'
 
 
 # Used › default.html front-matter and compress.html
@@ -192,8 +192,8 @@ og_type                              : 'website'
 #
 
 socialmedia:
-    twitter   : cfantecelle
-    facebook  : cfantecelle.media
+    twitter   : #
+    facebook  : #
 
 
 #        ____  _
