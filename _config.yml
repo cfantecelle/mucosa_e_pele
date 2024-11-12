@@ -270,3 +270,10 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+
+### Collections
+
+collections:
+  events:
+    output: true

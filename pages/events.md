@@ -9,3 +9,5 @@ header:
 ---
 
 <big>❗❗❗</big> Em construção... <big>❗❗❗</big>
+
+{% include list-collection collection='events' %}
