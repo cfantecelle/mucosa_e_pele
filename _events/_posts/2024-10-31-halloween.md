@@ -1,20 +1,20 @@
 ---
 layout: page
 subheadline:  "Evento"
-title:  "Xmas!!!!!! Yadda!"
-teaser: "Yadda..."
+title:  "Halloween"
+teaser: "Boo!"
 categories:
     - Eventos
 tags:
     - Eventos
-    - Yadda
+    - Workshop
+    - Boo!
 header: yes
 ---
 
 Teste teste *teste* **teste**.
 
 
-### All Header-Styles
 {: .t60 }
 
 {% include list-posts tag='header' %}

@@ -15,7 +15,6 @@ header: no
 Teste teste *teste* **teste**.
 
 
-### All Header-Styles
 {: .t60 }
 
 {% include list-posts tag='header' %}
