@@ -6,12 +6,20 @@
   url: "/info/"
   side: left
 
+- title: Histórico
+  url: "/history/"
+  side: left
+
 - title: Publicações
   url: "/publications/"
   side: left
 
 - title: Integrantes
   url: "/group/"
+  side: left
+
+- title: Eventos
+  url: "/events/"
   side: left
 
 - title: Notícias
