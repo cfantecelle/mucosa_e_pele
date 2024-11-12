@@ -1,9 +1,9 @@
 ---
-layout: events
+layout: page
 title: "Eventos"
 subheadline: "GEMP — Grupo de Estudos em Mucosas e Pele"
 teaser: "Em construção..."
-permalink: "/eventos/"
+permalink: "/events/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
@@ -11,3 +11,5 @@ header:
 <big>❗❗❗</big> Em construção... <big>❗❗❗</big>
 
 {% include list-collection collection='events' %}
+
+Teste

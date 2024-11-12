@@ -277,5 +277,5 @@ asciidoctor:
 collections:
   events:
     output: true
-    permalink: /events/:title
+    permalink: /:collection/:title
 
