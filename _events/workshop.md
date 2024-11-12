@@ -1,16 +1,20 @@
 ---
 layout: page
-subheadline:  "Evento"
-title:  "I Workshop de Imunologia de Mucosas e Pele"
+subheadline:  "Workshop"
+title:  "Workshop"
 eventday: 25/12/2024
-teaser: "O GEMP tem o prazer de anunciar o primeiro Workshop."
+teaser: "Boo!"
 categories:
-    - Eventos
+    - Evento
 tags:
     - Eventos
     - Workshop
-    - Imunologia
+    - Ciência
 header: yes
+image:
+    thumb: "header_drop.jpg"
+header:
+    image_fullwidth: "header_drop.jpg"
 ---
 
 Teste teste *teste* **teste**.

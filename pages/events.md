@@ -10,6 +10,7 @@ header:
 
 <big>❗❗❗</big> Em construção... <big>❗❗❗</big>
 
-{% include list-collection collection='events' %}
+---
 
-Teste
+{% include list-events collection='events' %}
+
