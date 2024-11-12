@@ -2,6 +2,7 @@
 layout: page
 subheadline:  "Evento"
 title:  "Halloween"
+eventday: 31/10/2024
 teaser: "Boo!"
 categories:
     - Eventos
