@@ -3,7 +3,7 @@ layout: page
 title: "Eventos"
 subheadline: "GEMP — Grupo de Estudos em Mucosas e Pele"
 teaser: "Em construção..."
-permalink: "/events/"
+permalink: "/placeholder/"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
