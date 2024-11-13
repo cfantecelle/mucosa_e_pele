@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_teste.png
+  image_fullwidth: skin_header_01.png
 widget1:
   title: "Notícias"
   url: 'http://cfantecelle.github.io/mucosa_e_pele/blog/'
