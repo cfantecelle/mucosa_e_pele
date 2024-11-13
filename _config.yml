@@ -49,6 +49,7 @@ plugins:
     - jekyll-asciidoc
     - jekyll-gist
     - jekyll-paginate
+    #- jekyll-paginate-v2
 
 
 #       ____              _             __  _
@@ -279,4 +280,6 @@ collections:
     output: true
     permalink: :collection/:title
     sort_by: eventday
+    paginate: 5
+
 
