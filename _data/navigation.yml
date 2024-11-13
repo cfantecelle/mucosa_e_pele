@@ -21,12 +21,19 @@
 - title: Eventos
   url: "/events/"
   side: left
+  dropdown:
+  - title: "Recentes"
+    url: "/events/"
+  - title: "Arquivo"
+    url: "/events/archive/"
 
 - title: Notícias
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Recentes"
+    url: "/blog/"
+  - title: "Arquivo"
     url: "/blog/archive/"
 
 - title: "Busca"
