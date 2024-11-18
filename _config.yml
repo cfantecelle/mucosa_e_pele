@@ -281,5 +281,9 @@ collections:
     permalink: :collection/:title
     sort_by: eventday
     paginate: 5
+  publications:
+    output: false
+    sort_by: pub_date
+    paginate: 5
 
 
