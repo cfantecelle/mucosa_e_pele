@@ -21,61 +21,6 @@ include.categories
 *
 {% endcomment %}
 
-<head>
-  <style>
-    #id_button {
-      background-color: #44c767;
-      border-radius: 3px;
-      display: inline-block;
-      cursor: pointer;
-      color: #ffffff;
-      font-family: Lato;
-      font-size: small;
-      padding: 5px 10px;
-      width: fit-content;
-      text-decoration: none;
-    }
-
-    #id_button:hover {
-      background-color: #5ee47d;
-    }
-
-    #id_button:active {
-      position: relative;
-      top: 1px;
-    }
-
-    #website_button {
-      background-color: #555555;
-      border-radius: 3px;
-      display: inline-block;
-      cursor: pointer;
-      color: #ffffff;
-      font-family: Lato;
-      font-size: small;
-      padding: 5px 10px;
-      width: fit-content;
-      text-decoration: none;
-    }
-
-    #website_button:hover {
-      background-color: #8b8b8b;
-    }
-
-    #website_button:active {
-      position: relative;
-      top: 1px;
-    }
-
-    #publication_space {
-      display: flex;
-      gap: 5px;
-      align-items: center;
-    }
-  </style>
-</head>
-
-
 {% assign category = include.category %}
 {% assign tag = include.tag %}
 <ul class="side-nav">
@@ -96,6 +41,7 @@ include.categories
       <a href="{{ post.pub_link }}" id="website_button"><b>Página do artigo</b></a>
       <a href="#" id="id_button">{{ post.pub_id }}</a>
     </div>
+    <br>
   </li>
   {% endfor %}
 

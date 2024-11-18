@@ -33,6 +33,12 @@ $ci-4               : #E27A3F; // orange
 $ci-5               : #DF4949; // red
 $ci-6               : #2B7A78; // green
 
+$pb-1               : $ci-6;
+$pb-2               : lighten($pb-1, 20%);
+$pb-3               : $ci-1;
+$pb-4               : lighten($pb-3, 20%);
+
+
 
 
 /* Foundation Color Variables

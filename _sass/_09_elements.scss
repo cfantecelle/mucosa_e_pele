@@ -103,6 +103,59 @@ button, .button         { letter-spacing: 1px; }
 
 
 
+
+
+
+/* Publication buttons */
+#id_button {
+  background-color: $pb-1;
+  border-radius: 3px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Lato;
+  font-size: small;
+  padding: 5px 10px;
+  width: fit-content;
+  text-decoration: none;
+
+  &:hover {
+    background-color: $pb-2;
+  }
+
+  &:active {
+    position: relative;
+    top: 1px;
+  }
+}
+
+#website_button {
+  background-color: $pb-3;
+  border-radius: 3px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Lato;
+  font-size: small;
+  padding: 5px 10px;
+  width: fit-content;
+  text-decoration: none;
+
+  &:hover {
+    background-color: $pb-4;
+  }
+
+  &:active {
+    position: relative;
+    top: 1px;
+  }
+}
+
+#publication_space {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
 /* Side-Nav
 ------------------------------------------------------------------- */
 
