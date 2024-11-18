@@ -8,9 +8,5 @@ header:
     image_fullwidth: "skin_header_01.png"
 ---
 
-<big>❗❗❗</big> Em construção... <big>❗❗❗</big>
-
----
-
 
 

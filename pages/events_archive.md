@@ -10,7 +10,5 @@ header:
 
 <big>❗❗❗</big> Em construção... <big>❗❗❗</big>
 
----
-
 {% include list-events-archive collection='events' %}
 
