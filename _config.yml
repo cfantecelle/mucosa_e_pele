@@ -40,7 +40,6 @@ baseurl: '/mucosa_e_pele'
 #
 urlimg: 'https://cfantecelle.github.io/mucosa_e_pele/images/'
 
-
 # Logo size is 600x80 pixels
 logo: "logo.png"
 
@@ -128,7 +127,7 @@ markdown           : kramdown
 permalink          : /:categories/:title/
 highlight          : rouge
 excerpt_separator  : "<!--more-->"
-include            : ['.htaccess']
+include            : ['.htaccess', 'images/group/']
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
@@ -343,5 +342,9 @@ collections:
   publications:
     output: false
     sort_by: pub_date
+  group:
+    output: false
+    sort_by: name
+    
 
 

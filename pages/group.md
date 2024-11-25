@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "Integrantes"
 subheadline: "GEMP — Grupo de Estudos em Mucosas e Pele"
 teaser: "Em construção..."
@@ -9,3 +9,5 @@ header:
 ---
 
 <big>❗❗❗</big> Em construção... <big>❗❗❗</big>
+
+{% include list-group collection='group' %}
