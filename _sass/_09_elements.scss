@@ -14,7 +14,17 @@
 
 */
 
+.group_img { 
+  display: flex;
+  align-items: flex-start;
 
+  img {
+    width: 100px;
+    height: auto; 
+    flex-shrink: 0;
+    margin: 1em 15px 5px 0;
+  }
+}
 
 /* Table of Contents (Index)
 ------------------------------------------------------------------- */
@@ -157,6 +167,76 @@ button, .button         { letter-spacing: 1px; }
   display: flex;
   gap: 5px;
   align-items: center;
+}
+
+/* Group buttons */
+#groupsite_button {
+  background-color: #515BD4;
+  border-radius: 3px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Lato;
+  font-size: small;
+  padding: 5px 10px;
+  width: fit-content;
+  text-decoration: none;
+  margin-top: 10px;
+
+  &:hover {
+    background-color: lighten(#515BD4, 20%);
+  }
+
+  &:active {
+    position: relative;
+    top: 1px;
+  }
+}
+
+#instagram_button {
+  background-color: #DD2A7B;
+  border-radius: 3px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Lato;
+  font-size: small;
+  padding: 5px 10px;
+  width: fit-content;
+  text-decoration: none;
+  margin-top: 10px;
+
+  &:hover {
+    background-color: lighten(#DD2A7B, 20%);
+  }
+
+  &:active {
+    position: relative;
+    top: 1px;
+  }
+}
+
+#twitter_button {
+  background-color: #000;
+  border-radius: 3px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Lato;
+  font-size: small;
+  padding: 5px 10px;
+  width: fit-content;
+  text-decoration: none;
+  margin-top: 10px;
+
+  &:hover {
+    background-color: lighten(#000, 20%);
+  }
+
+  &:active {
+    position: relative;
+    top: 1px;
+  }
 }
 /* Side-Nav
 ------------------------------------------------------------------- */

@@ -128,7 +128,8 @@ img { border-radius: $global-radius;}
     img.alignright,
     img.right       { float: right; margin:5px 0 5px 15px; }
     img.aligncenter,
-    img.center      { display: block; margin:0 auto 10px; }
+    img.center      { display: block; margin:0 auto 10px; };
+
 
 figure {
     margin: 0 0 rem-calc(30) 0;
@@ -158,8 +159,6 @@ figcaption a:hover,
     padding-right: 10px;
     text-align: right;
 }
-
-
 
 /* Tables
 ------------------------------------------------------------------- */

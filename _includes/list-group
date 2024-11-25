@@ -30,11 +30,28 @@ include.categories
   {% for post in site.[include.collection] limit:include.entries offset:include.offset %}
   <li>
     <br>
-    {% if post.photo %}<img src="{{ site.urlimg }}{{ post.photo }}" class="alignleft" width="150" height="150" alt="{{ post.name escape_once }}">{% endif %}
-    <h6><strong>{{ post.name }}</strong></h6>
-    {{ post.description }} <br>
-    <sub>{{ post.research }}</sub>
-
+    <div class="group_img">
+      {% if post.photo %}
+      <img src="{{ site.urlimg }}{{ post.photo }}" alt="{{ post.name escape_once }}">
+      {% endif %}
+      <div class="text-block">
+        <h4><strong>{{ post.name }}</strong></h4>
+        <sup>{{ post.research }}</sup> <br>
+        <b>Instituição:</b> {{ post.institution }} <br>
+        <b> Grupo: </b> {{ post.group_name }} <br>
+        <br> {{ post.description }} <br>
+        {% if post.website %}
+        <a href="{{ post.website }}" id="groupsite_button"><b>Página do grupo</b></a>
+        {% endif %}
+        {% if post.instagram %}
+        <a href="{{ post.instagram }}" id="instagram_button"><b>Instagram</b></a>
+        {% endif %}
+        {% if post.twitter %}
+        <a href="{{ post.twitter }}" id="twitter_button"><b>X (Twitter)</b></a>
+        {% endif %}
+      </div>
+    </div>
+    <br>
   </li>
   {% endfor %}
 
