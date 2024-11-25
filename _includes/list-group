@@ -29,7 +29,6 @@ include.categories
 
   {% for post in site.[include.collection] limit:include.entries offset:include.offset %}
   <li>
-    <br>
     <div class="group_img">
       {% if post.photo %}
       <img src="{{ site.urlimg }}{{ post.photo }}" alt="{{ post.name escape_once }}">
