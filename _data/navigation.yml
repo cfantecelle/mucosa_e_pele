@@ -9,6 +9,13 @@
 - title: Histórico
   url: "/history/"
   side: left
+  dropdown:
+    - title: Criação
+      url: "/history/#criação"
+    - title: Integrantes
+      url: "/history/#integrantes"
+    - title: Colaborações
+      url: "/history/#colaborações-internacionais"
 
 - title: Publicações
   url: "/publications/"
