@@ -1,6 +1,6 @@
 ---
 subheadline:
-name:  Fulano de Tal
+name:  A Fulana de Tal
 photo: "group/teste.jpg"
 institution: Tal lugar (Sigla)
 group_name: Nome do Lab

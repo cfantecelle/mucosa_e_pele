@@ -1,5 +1,5 @@
 ---
-layout: page-noteaser
+layout: page-fullwidth-noteaser
 title: "Sobre Nós"
 subheadline: ""
 teaser: "Em construção..."

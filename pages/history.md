@@ -1,5 +1,5 @@
 ---
-layout: page-noteaser
+layout: page-fullwidth-noteaser
 title: "Histórico"
 subheadline: ""
 teaser: "O Grupo de Estudos em Mucosas e Pele tem suas raízes em diversas iniciativas científicas colaborativas que fortalecem a pesquisa na área de imunologia de mucosas e pele."

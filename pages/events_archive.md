@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth-noteaser
 title: "Eventos"
 subheadline: "GEMP — Grupo de Estudos em Mucosas e Pele"
 teaser: "Em construção..."

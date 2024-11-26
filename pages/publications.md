@@ -1,5 +1,5 @@
 ---
-layout: page-noteaser
+layout: page-fullwidth-noteaser
 title: "Publicações"
 subheadline: ""
 teaser: "As publicações geradas pelo Grupo de Estudos em Mucosas e Pele refletem o compromisso com a produção de conhecimento científico de alta qualidade, orientado para a compreensão dos mecanismos imunológicos, moleculares e clínicos que envolvem doenças que afetam mucosas e pele."
