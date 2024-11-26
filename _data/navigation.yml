@@ -29,6 +29,8 @@
   url: "/events/"
   side: left
   dropdown:
+  - title: "Recentes"
+    url: "/events/"
   - title: "Arquivo"
     url: "/events/archive/"
 

@@ -1,10 +1,12 @@
 ---
 layout              : page
-title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "bla bla Get in touch with me? Use the contact form."
+title               : "Contato"
+meta_title          : ""
+subheadline         : ""
+teaser              : "Como entrar em contato com o GEMP?"
 permalink           : "/contact/"
+header:
+    image_fullwidth: "skin_header_01.png"
 ---
 
 Bla bla bla
