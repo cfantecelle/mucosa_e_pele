@@ -10,10 +10,12 @@
 *   
 {% endcomment %}
 
+{% assign sorted = site.[include.collection] | sort: 'eventday' | reverse %}
+
 <ul class="side-nav">
-  {% for page in site.[include.collection] %}
+  {% for page in sorted %}
     {% unless page.published == false %}
-    <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.eventday }} — {{ page.title }}</a></li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.eventday | date: "%d-%m-%Y" }} — {{ page.title }}</a></li>
     {% endunless %}
   {% endfor %}
   <li>&nbsp;</li>

@@ -1,8 +1,8 @@
 ---
 layout: page
 subheadline:  "Festa"
-title:  "Halloween7"
-eventday: 31/10/2024
+title:  "Halloween certo"
+eventday: "2024-10-31"
 teaser: "Boo!"
 categories:
     - Evento

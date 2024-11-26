@@ -1,20 +1,18 @@
 ---
 layout: page
-subheadline:  "Festa"
-title:  "Halloween"
-eventday: 31/10/2024
+subheadline:  "Workshop"
+title:  "Workshop"
+eventday: "2024-11-26"
 teaser: "Boo!"
 categories:
     - Evento
 tags:
     - Eventos
-    - Festa
-    - Boo!
-header: yes
+    - Workshop
+    - Ciência
+header: no
 image:
     thumb: "header_drop.jpg"
-header:
-    image_fullwidth: "header_drop.jpg"
 ---
 
 Teste teste *teste* **teste**.
