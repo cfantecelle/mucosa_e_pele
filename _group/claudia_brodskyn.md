@@ -9,7 +9,7 @@ description: "Possui graduação em Biomedicina pela Universidade Federal de Sã
 desc_source: Texto retirado do Currículo Lattes.
 website: https://www.bahia.fiocruz.br/laiphe-laboratorio-de-interacao-parasito-hospedeiro-e-epidemiologia/
 twitter: https://x.com/Brodskyn
-instagram: https://instagran.com/claudia.brodskyn
+instagram: https://instagram.com/claudia.brodskyn
 lattes: http://lattes.cnpq.br/8510726976369443
 email: cbrodskyn2009@gmail.com
 include_email: no
