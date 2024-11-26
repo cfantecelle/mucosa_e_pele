@@ -171,7 +171,7 @@ button, .button         { letter-spacing: 1px; }
 
 /* Group buttons */
 #groupsite_button {
-  background-color: #515BD4;
+  background-color: $pb-3;
   border-radius: 3px;
   display: inline-block;
   cursor: pointer;
@@ -182,9 +182,9 @@ button, .button         { letter-spacing: 1px; }
   width: fit-content;
   text-decoration: none;
   margin-top: 10px;
-
+  
   &:hover {
-    background-color: lighten(#515BD4, 20%);
+    background-color: $pb-4;
   }
 
   &:active {
