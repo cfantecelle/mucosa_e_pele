@@ -40,7 +40,7 @@ include.categories
         <b> Grupo: </b> {{ post.group_name }} <br>
         <p> 
           <br> {{ post.description }} <br>
-          <sup> ({{ post.desc_source }}) </sup>
+          <sup> ({{ post.desc_source }}) </sup> <br>
         </p>
         {% if post.website %}
         <a href="{{ post.website }}" id="groupsite_button" target="_blank"><b>Página do grupo</b></a>
