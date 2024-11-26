@@ -38,15 +38,21 @@ include.categories
         <sup>{{ post.research }}</sup> <br>
         <b>Instituição:</b> {{ post.institution }} <br>
         <b> Grupo: </b> {{ post.group_name }} <br>
-        <br> {{ post.description }} <br>
+        <p> 
+          <br> {{ post.description }} <br>
+          <sup> ({{ post.desc_source }}) </sup>
+        </p>
         {% if post.website %}
-        <a href="{{ post.website }}" id="groupsite_button"><b>Página do grupo</b></a>
+        <a href="{{ post.website }}" id="groupsite_button" target="_blank"><b>Página do grupo</b></a>
+        {% endif %}
+        {% if post.lattes %}
+        <a href="{{ post.lattes }}" id="lattes_button" target="_blank"><b>Lattes</b></a>
         {% endif %}
         {% if post.instagram %}
-        <a href="{{ post.instagram }}" id="instagram_button"><b>Instagram</b></a>
+        <a href="{{ post.instagram }}" id="instagram_button" target="_blank"><b>Instagram</b></a>
         {% endif %}
         {% if post.twitter %}
-        <a href="{{ post.twitter }}" id="twitter_button"><b>X (Twitter)</b></a>
+        <a href="{{ post.twitter }}" id="twitter_button" target="_blank"><b>X (Twitter)</b></a>
         {% endif %}
       </div>
     </div>

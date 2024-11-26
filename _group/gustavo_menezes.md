@@ -9,7 +9,8 @@ description: "[Placeholder]"
 desc_source: "[Placeholder]"
 website: 
 twitter: 
-instagram: 
+instagram:  
+lattes: 
 email: microscopian3140@gmail.com
 include_email: no
 categories:

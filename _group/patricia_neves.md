@@ -10,6 +10,7 @@ desc_source: "[Placeholder]"
 website: 
 twitter: 
 instagram: 
+lattes:  
 email: pcristina@bio.fiocruz.br
 include_email: no
 categories:

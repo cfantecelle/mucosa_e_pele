@@ -10,6 +10,7 @@ desc_source: "[Placeholder]"
 website: 
 twitter: 
 instagram: 
+lattes:  
 email: lilacerdabueno@gmail.com
 include_email: no
 categories:

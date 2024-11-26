@@ -9,8 +9,9 @@ description: "[Placeholder]"
 desc_source: "[Placeholder]"
 website: 
 twitter: 
-instagram: 
-email: 
+instagram:  
+lattes: 
+email: andrea.q.maranhao@gmail.com
 include_email: no
 categories:
     - Integrantes

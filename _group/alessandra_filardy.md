@@ -9,7 +9,8 @@ description: "[Placeholder]"
 desc_source: "[Placeholder]"
 website: 
 twitter: 
-instagram: 
+instagram:   
+lattes: 
 email: filardy@micro.ufrj.br
 include_email: no
 categories:

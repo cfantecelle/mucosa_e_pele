@@ -9,7 +9,8 @@ description: Daniel Gomes é Professor Titular de Imunologia na UFES e atualment
 desc_source: Texto fornecido pelo autor.
 website: https://www.google.com
 twitter: https://www.x.com
-instagram: https://www.instagram.com
+instagram: https://www.instagram.com 
+lattes: 
 email: dgomes@ndi.ufes.br
 include_email: no
 categories:
