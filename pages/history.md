@@ -24,13 +24,40 @@ Mais recentemente, em 2022, foi criada a Rede Mineira de Mucosas e Pele, financi
 
 ## Integrantes
 
-Atualmente, o grupo conta com uma extensa lista de integrantes e a participação das seguintes instituições: FIOCRUZ-RD, FIOCRUZ-BA, FIOCRUZ-CE, FIOCRUZ-MG, FIOCRUZ-RJ (IOC), UnB, UFMG, UFV, UFRJ, UFF, USP, USP-RP, UNICAMP, UFES, UFSC e PUC-RS.
+<div class="flex_img">
+    <div class="text-block">
+    Atualmente, o grupo conta com uma extensa lista de integrantes e a participação das seguintes instituições: <br><br>
+    <u>
+    <li>FIOCRUZ-RD</li>
+    <li>FIOCRUZ-BA</li>
+    <li>FIOCRUZ-CE</li>
+    <li>FIOCRUZ-MG</li>
+    <li>FIOCRUZ-RJ (IOC)</li>
+    <li>UnB</li>
+    <li>UFMG</li>
+    <li>UFV</li>
+    <li>UFRJ</li>
+    <li>UFF</li>
+    <li>USP</li>
+    <li>USP-RP</li>
+    <li>UNICAMP</li>
+    <li>UFES</li>
+    <li>UFSC</li>
+    <li>PUC-RS</li>
+    </u>
 
-Para saber mais sobre os integrantes, [clique aqui]({{ site.url }}{{ site.baseurl }}/group/).
+    <br>Para saber mais sobre os integrantes, <a href="({{ site.url }}{{ site.baseurl }}/group/">clique aqui</a>.
+    </div>
+
+    <img src="../images/map_pesquisadores.png" alt="Mapa de distribuição dos pesquisadores do GEMP" width = "55%" style="margin:-40px 0px 0px 0px">
+    
+</div>
 
 ## Colaborações internacionais
 
 Os integrantes do grupo mantém uma ampla rede de colaborações internacionais, fortalecendo suas pesquisas por meio de parcerias com instituições renomadas em diferentes países:
+
+<img src="../images/map_colabs.png" alt="Mapa de distribuição dos colaboradores do GEMP" width = "100%">
 
 #### Américas
 * Guilhermo Docena – Universidad de La Plata, Argentina
