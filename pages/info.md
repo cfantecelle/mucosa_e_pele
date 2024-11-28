@@ -14,26 +14,14 @@ O Grupo de Estudos em Mucosas e Pele é uma rede colaborativa de pesquisadores d
 
 ## Eixos temáticos
 
-O GEMP organiza suas atividades de pesquisa em torno de eixos temáticos que abrangem questões de grande relevância científica e impacto na saúde pública. 
+Os pesquisadores do GEMP trabalham com diversas linhas de pesquisa.
 
-No eixo de Doenças Infecciosas Negligenciadas, o foco está na compreensão e no desenvolvimento de abordagens terapêuticas para:
-* Leishmaniose
-* Toxoplasmose
-* Esquistossomose
-* Hanseníase
+<center><img src="../images/wordcloud_eixos_tematicos_especificos.png" alt="Linhas de pesquisa do GEMP" width = "80%"></center><br>
 
-No eixo de Doenças Virais de Alta Prevalência, o grupo estuda:
-* Vírus Sincicial Respiratório (VSR)
-* COVID-19
+Assim, o grupo organiza suas atividades de pesquisa em torno de eixos temáticos que abrangem questões de grande relevância científica e impacto na saúde pública. 
 
-Já no eixo de Doenças Crônicas de Alta Prevalência, os esforços de pesquisa estão voltados para:
-* Câncer de mama
-* Melanoma
-* Câncer de cólon
-* Câncer de pulmão
-* Doença de Crohn e Colite Ulcerativa
-* Obesidade e Síndrome Metabólica
-* Alergia Alimentar, Dermatite e Asma
-* Vitiligo
+<center><img src="../images/waffle_eixos_tematicos_totais.png" alt="Mapa de distribuição dos colaboradores do GEMP" width = "80%" alt="Eixos temáticos do GEMP"></center><br>
 
-Esses eixos norteiam as investigações científicas, permitindo ao grupo contribuir significativamente para o avanço no entendimento das patologias e o desenvolvimento de novas terapias.
+Esses eixos norteiam as investigações científicas, permitindo ao grupo contribuir significativamente para o avanço no entendimento das patologias e o desenvolvimento de novas terapias, se desdobrando em diversos eixos transversais.
+
+<center><img src="../images/donut_eixos_transversais.png" alt="Mapa de distribuição dos colaboradores do GEMP" width = "80%" alt="Eixos temáticos do GEMP"></center>
