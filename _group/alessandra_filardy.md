@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Alessandra D’Almeida Filardy
-photo: "group/alessandra_filardy.jpg"
+photo: "../images/group/alessandra_filardy.jpg"
 institution: Universidade Federal do Rio de Janeiro (UFRJ)
 group_name: Laboratório de Imunologia Celular (LIC)
 research: Mucosa Pulmonar — Mucosa Intestinal — Doença Pulmonar — Eferocitose — Imunorregulação

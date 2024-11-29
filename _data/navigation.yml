@@ -6,17 +6,17 @@
   url: "/info/"
   side: left
   dropdown:
-    - title: Eixos temáticos
-      url: "/info/#eixos-temáticos"
+    - title: Histórico
+      url: "/info/#histórico"
+    - title: Linhas de Pesquisa
+      url: "/info/#linhas-de-pesquisa"
     - title: Integrantes
       url: "/info/#integrantes"
     - title: Colaborações
       url: "/info/#colaborações-internacionais"
 
 
-- title: Histórico
-  url: "/history/"
-  side: left
+
 
 - title: Publicações
   url: "/publications/"
