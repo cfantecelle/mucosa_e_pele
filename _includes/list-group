@@ -37,26 +37,25 @@ include.categories
         <h4><strong>{{ post.name }}</strong></h4>
         <sup>{{ post.research }}</sup> <br>
         <b>Instituição:</b> {{ post.institution }} <br>
-        <b> Grupo: </b> {{ post.group_name }} <br>
+        <b> Grupo de Pesquisa: </b> {{ post.group_name }} <br>
         <p> 
           <br> {{ post.description }} <br>
-          <sup> ({{ post.desc_source }}) </sup> <br>
+          <sup> {{ post.desc_source }} </sup> <br>
+          {% if post.website %}
+          <a href="{{ post.website }}" id="groupsite_button" target="_blank"><b>Página do grupo</b></a>
+          {% endif %}
+          {% if post.lattes %}
+          <a href="{{ post.lattes }}" id="lattes_button" target="_blank"><b>Lattes</b></a>
+          {% endif %}
+          {% if post.instagram %}
+          <a href="{{ post.instagram }}" id="instagram_button" target="_blank"><b>Instagram</b></a>
+          {% endif %}
+          {% if post.twitter %}
+          <a href="{{ post.twitter }}" id="twitter_button" target="_blank"><b>X (Twitter)</b></a>
+          {% endif %}
         </p>
-        {% if post.website %}
-        <a href="{{ post.website }}" id="groupsite_button" target="_blank"><b>Página do grupo</b></a>
-        {% endif %}
-        {% if post.lattes %}
-        <a href="{{ post.lattes }}" id="lattes_button" target="_blank"><b>Lattes</b></a>
-        {% endif %}
-        {% if post.instagram %}
-        <a href="{{ post.instagram }}" id="instagram_button" target="_blank"><b>Instagram</b></a>
-        {% endif %}
-        {% if post.twitter %}
-        <a href="{{ post.twitter }}" id="twitter_button" target="_blank"><b>X (Twitter)</b></a>
-        {% endif %}
-      </div>
     </div>
-    <br>
+    </div>
   </li>
   {% endfor %}
 
