@@ -17,27 +17,27 @@ header: no
 image:
     thumb: "../images/events/2ndACMI/thumb.png"
 gallery:
-    - image_url: "../images/events/2ndACMI/flyer1.png"
+    - image_url: "events/2ndACMI/flyer1.png"
       caption: 
-    - image_url: "../images/events/2ndACMI/flyer2.png"
+    - image_url: "events/2ndACMI/flyer2.png"
       caption: 
-    - image_url: "../images/events/2ndACMI/Dia 1 parte 1.jpg"
+    - image_url: "events/2ndACMI/Dia 1 parte 1.jpg"
       caption: 
-    - image_url: "../images/events/2ndACMI/Dia 1 parte 2.jpg"
+    - image_url: "events/2ndACMI/Dia 1 parte 2.jpg"
       caption: 
-    - image_url: "../images/events/2ndACMI/Dia 2 parte 1.jpg"
+    - image_url: "events/2ndACMI/Dia 2 parte 1.jpg"
       caption: 
-    - image_url: "../images/events/2ndACMI/Dia 2 parte 2.jpg"
+    - image_url: "events/2ndACMI/Dia 2 parte 2.jpg"
       caption: 
-    - image_url: "../images/events/2ndACMI/Dia 3 parte 1.jpg"
+    - image_url: "events/2ndACMI/Dia 3 parte 1.jpg"
       caption: 
-    - image_url: "../images/events/2ndACMI/Dia 3 parte 2.jpg"
+    - image_url: "events/2ndACMI/Dia 3 parte 2.jpg"
       caption: 
-    - image_url: "../images/events/2ndACMI/Dia 4 parte 1.jpg"
+    - image_url: "events/2ndACMI/Dia 4 parte 1.jpg"
       caption: 
-    - image_url: "../images/events/2ndACMI/Dia 4 parte 2.jpg"
+    - image_url: "events/2ndACMI/Dia 4 parte 2.jpg"
       caption: 
-    - image_url: "../images/events/2ndACMI/Dia 5.jpg"
+    - image_url: "events/2ndACMI/Dia 5.jpg"
       caption: 
 ---
 
