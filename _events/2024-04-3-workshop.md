@@ -54,7 +54,7 @@ O curso/simpósio incluirá os conceitos básicos e a organização do sistema i
     As inscrições aconteceram de 01 de Maio a 03 de Junho e serão gratuitas. Para se inscrever, basta escanear o QRCode ao lado. 50 participantes ao todo serão selecionados (entre alunos e pós-doutorandos). Para a inscrição, os interessados deverão submeter um resumo do seu projeto e uma carta de interesse.
     </div>
     <figure style="width:100%">
-    <img src="../images/events/2ndACMI/qrcode.png" alt="QRCode 2nd ACMI" width = "100%" style="margin:0px 0px 0px 0px" caption="teste"><br>
+    <img src="../images/events/2ndACMI/qrcode.png" alt="QRCode 2nd ACMI" width = "100%" style="margin:0px 0px 0px 0px" caption="teste">
     <center><figcaption>2º ACMI - Inscrições</figcaption></center>
     </figure>
 </div>
