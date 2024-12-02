@@ -53,6 +53,9 @@ include.categories
           {% if post.twitter %}
           <a href="{{ post.twitter }}" id="twitter_button" target="_blank"><b>X (Twitter)</b></a>
           {% endif %}
+          {% if post.include_email %}
+          <a href="" id="email_button" target="_blank"><b>{{ post.email }}</b></a>
+          {% endif %}
         </p>
     </div>
     </div>

@@ -268,6 +268,29 @@ button, .button         { letter-spacing: 1px; }
   }
 }
 
+#email_button {
+  background-color: #00796b;
+  border-radius: 3px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Lato;
+  font-size: small;
+  padding: 5px 10px;
+  width: fit-content;
+  text-decoration: none;
+  margin-top: 10px;
+
+  &:hover {
+    background-color: lighten(#00796b, 20%);
+  }
+
+  &:active {
+    position: relative;
+    top: 1px;
+  }
+}
+
 /* */
 /* Side-Nav
 ------------------------------------------------------------------- */
