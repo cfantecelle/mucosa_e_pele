@@ -9,13 +9,13 @@ categories:
     - Artigo
 tags:
     - Artigo
-    - Nature Scientific Reports
+    - Scientific Reports
 header: yes
 
 pub_id: "<b>doi: 10.1038/srep28573</b> "
 pub_link: https://www.nature.com/articles/srep28573
 pub_date: 29/06/2016
-journal: Nature Scientific Reports
+journal: Scientific Reports
 authors: "<b>Fábio Barrozo do Canto</b>, Sylvia Maria Nicolau Campos, Alessandra Granato, Rafael F. da Silva, Luciana Souza de Paiva, Alberto Nóbrega, Maria Bellio, Rita Fucs"
 ---
 
