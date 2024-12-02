@@ -1,7 +1,7 @@
 ---
 subheadline:
 name:  Hosana Gomes Rodrigues
-photo: "group/hosana_rodrigues.jpeg"
+photo: "group/hosana_rodrigues.jpg"
 institution: Faculdade de Ciências Aplicadas (UNICAMP)
 group_name: Laboratório de Nutrientes e Reparo Tecidual - NUTRE
 research: Cicatrização de Feridas — Psoríase — Pele — Fibras — Ácidos Graxos
