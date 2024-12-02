@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Ana Paula Dinis Ano Bom
-photo: "group/ana_paula_dinis.jpg"
+photo: "group/placeholder.png"
 institution: Bio-Manguinhos (Fiocruz)
 group_name: "[Placeholder]"
 research: Nanotecnologia — Imunologia — Desenvolvimento Tecnológico

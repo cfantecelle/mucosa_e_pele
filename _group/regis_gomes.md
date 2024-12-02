@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Regis Bernardo Brandim Gomes
-photo: "group/regis_gomes.jpg"
+photo: "group/placeholder.png"
 institution: Fiocruz – CE
 group_name: "[Placeholder]"
 research: "[Placeholder]"

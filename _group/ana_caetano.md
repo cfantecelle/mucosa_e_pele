@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Ana Maria Caetano Faria
-photo: "group/ana_caetano.jpg"
+photo: "group/placeholder.png"
 institution: Universidade Federal de Minas Gerais (UFMG)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

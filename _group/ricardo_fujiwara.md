@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Ricardo Toshio Fujiwara
-photo: "group/ricardo_fujiwara.jpg"
+photo: "group/placeholder.png"
 institution: Universidade Federal de Minas Gerais (UFMG)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Patrícia Mineiro de Oliveira
-photo: "group/patricia_oliveira.jpg"
+photo: "group/placeholder.png"
 institution: Hospital Regional do Baixo Amazonas
 group_name: "[Placeholder]"
 research: "[Placeholder]"

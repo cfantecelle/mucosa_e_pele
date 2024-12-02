@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Gustavo Batista de Menezes
-photo: "group/gustavo_menezes.jpg"
+photo: "group/placeholder.png"
 institution: Universidade Federal de Minas Gerais (UFMG)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

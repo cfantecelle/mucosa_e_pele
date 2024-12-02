@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Eduardo Fonseca Pinto
-photo: "group/eduardo_pinto.jpg"
+photo: "group/placeholder.png"
 institution: Fiocruz (IOC)
 group_name: "[Placeholder]"
 research: Vacinologia — Imunopatogênese — Leishmaniose

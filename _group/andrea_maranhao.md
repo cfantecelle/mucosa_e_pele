@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Andrea Queiroz Maranhão
-photo: "group/andrea_maranhao.jpg"
+photo: "group/placeholder.png"
 institution: Universidade de Brasília (UnB)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

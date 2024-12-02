@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Cristina Toscano Fonseca
-photo: "group/cristina_fonseca.jpg"
+photo: "group/placeholder.png"
 institution: Instituto René Rachou (Fiocruz – MG)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Herbert Leonel de Matos Guedes
-photo: "group/herbert_guedes.jpg"
+photo: "group/placeholder.png"
 institution: Universidade Federal do Rio de Janeiro / Fiocruz
 group_name: "[Placeholder]"
 research: "[Placeholder]"

@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Kelly Grace Magalhães
-photo: "group/kelly_magalhaes.jpg"
+photo: "group/placeholder.png"
 institution: Universidade de Brasilia (UnB)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

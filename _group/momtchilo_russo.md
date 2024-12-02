@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Momtchilo Russo
-photo: "group/momtchilo_russo.jpg"
+photo: "group/placeholder.png"
 institution: Universidade de São Paulo (USP)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

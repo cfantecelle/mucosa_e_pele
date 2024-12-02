@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Denise Morais da Fonseca
-photo: "group/denise_fonseca.jpg"
+photo: "group/placeholder.png"
 institution: Instituto de Ciências Biomédicas (USP)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

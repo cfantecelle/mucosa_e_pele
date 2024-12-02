@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Carlos Rodrigo Zárate-Bladés
-photo: "group/carlos_zarate-blades.jpg"
+photo: "group/placeholder.png"
 institution: Universidade Federal de Santa Catarina (UFSC)
 group_name: Centro de Controle da Disbiose – CCDis
 research: Imunorregulação — Microbiota Comensal — Disbiose

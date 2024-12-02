@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Ana Paula Lepique
-photo: "group/ana_paula_lepique.jpg"
+photo: "group/placeholder.png"
 institution: Instituto de Ciências Biomédicas (USP)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

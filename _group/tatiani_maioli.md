@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Tatiani Uceli Maioli
-photo: "group/tatiani_maioli.jpg"
+photo: "group/placeholder.png"
 institution: Universidade Federal de Minas Gerais (UFMG)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

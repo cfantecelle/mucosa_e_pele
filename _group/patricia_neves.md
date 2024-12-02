@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Patrícia Cristina da Costa Neves
-photo: "group/patricia_neves.jpg"
+photo: "group/placeholder.png"
 institution: Bio-Manguinhos (Fiocruz)
 group_name: "[Placeholder]"
 research: "[Placeholder]"

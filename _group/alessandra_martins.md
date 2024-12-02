@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Alessandra Marcia da Fonseca Martins
-photo: "group/alessandra_martins.jpg"
+photo: "group/placeholder.png"
 institution: Fiocruz
 group_name: "[Placeholder]"
 research: "[Placeholder]"

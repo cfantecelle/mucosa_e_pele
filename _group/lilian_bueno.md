@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Lilian Lacerda Bueno
-photo: "group/lilian_bueno.jpg"
+photo: "group/placeholder.png"
 institution: Universidade Federal de Minas Gerais (UFMG)
 group_name: "[Placeholder]"
 research: "[Placeholder]"
