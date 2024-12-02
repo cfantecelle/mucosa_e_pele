@@ -1,20 +1,27 @@
 ---
 subheadline:
 name:  Raquel Franco Leal
-photo: "group/raquel_f_leal.gif"
+photo: "group/raquel_f_leal.jpeg"
 institution: Universidade Estadual de Campinas (UNICAMP)
-group_name: Laboratório de Investigação em Doenças Inflamatórias Intestinais
-research: Coloproctologia — Doenças Inflamatórias Intestinais — Pesquisa Translacional
-description: Professora Titular do Departamento de Cirurgia, Serviço de Coloproctologia, da Faculdade de Ciências Médicas da Universidade Estadual de Campinas. Possui graduação em Ciências Médicas pela Universidade Estadual de Campinas (2001), residência médica em Cirurgia Geral (2004) e Coloproctologia (2006). Mestrado (2007) e Doutorado (2009) em Cirurgia pela Universidade Estadual de Campinas. Realizou Pós-Doutoramento junto ao Laboratório de Sinalização Celular da FCM/UNICAMP no período de 2010 a 2011; estágio de Professor Visitante e Pós-doutorado pela Universidade de Chicago em 2012. Pós-doutorado pelo Institut D'Investigacions Biomèdiques August Pi i Sunyer, Hospital Clínic, Universidade de Barcelona no período de 2012 a 2014. Livre-Docência em Coloproctologia pela UNICAMP (2015). Membro Titular da Sociedade Brasileira de Coloproctologia e da Sociedade Paulista de Coloproctologia. Membro da International Society of University Colon and Rectal Surgeons (ISUCRS) e sócia honorária da Associação Brasileira de Colite Ulcerativa e Doença de Crohn (ABCD). Membro do Grupo de Estudos da Doença Inflamatória Intestinal no Brasil (GEDIIB), da European Crohns and Colitis Organisation (ECCO) e da Pan American Crohns Colitis Organisation (PANCCO). Líder do Grupo de Pesquisa em Doenças Inflamatórias Intestinais Translacional, certificado pelo Diretório de Grupos de Pesquisa do CNPq (dgp.cnpq.br/dgp/espelhogrupo/0207799090683699). Pesquisadora com Bolsa Produtividade em Pesquisa do CNPq - Nível 2.
-desc_source: Texto retirado do Currículo Lattes.
+group_name: Laboratório de Investigação em Doenças Inflamatórias Intestinais (LabDII)
+research: Doenças Inflamatórias Intestinais — Biomarcadores — Alvos terapêuticos — Inflamação — Vias de sinalização celular — Alterações imunológicas — Alterações moleculares
+description: A Profa. Dra. Raquel Franco Leal é Professora Titular do Departamento de Cirurgia da FCM-UNICAMP e coordena o Laboratório de Investigação em Doenças Inflamatórias Intestinais (LABDII), que foca na identificação de biomarcadores e alvos terapêuticos para doenças inflamatórias intestinais, como Doença de Crohn e Retocolite Ulcerativa. Desde 2004, suas pesquisas combinam estudos moleculares, modelos experimentais e amostras humanas, com parcerias nacionais e internacionais de destaque, como IDIBAPS (Barcelona, Espanha) e Quadram Institute (Norwich, Reino Unido). O LABDII conta com financiamento de agências como FAPESP, FAEPEX e CNPq, além de parcerias privadas, sendo referência na pesquisa translacional em DII.
+desc_source: Texto fornecido pelo(a) autor(a).
 website: https://gastrocentro.unicamp.br/laboratorio-de-investigacao-em-doencas-inflamatorias-intestinais/
 twitter: 
 instagram: 
-lattes: http://lattes.cnpq.br/7989392149441477
-email: rafranco.unicamp@gmail.com
-include_email: no
+lattes: https://lattes.cnpq.br/7989392149441477
+email: rafranco@unicamp.br
+include_email: yes
 categories:
     - Integrantes
 tags:
     - Integrantes
+    - Doenças Inflamatórias Intestinais
+    - Biomarcadores
+    - Alvos terapêuticos
+    - Inflamação
+    - Vias de sinalização celular
+    - Alterações imunológicas
+    - Alterações moleculares
 ---
