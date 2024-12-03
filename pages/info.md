@@ -74,26 +74,46 @@ Os integrantes do grupo mantém uma ampla rede de colaborações internacionais,
 
 <img src="../images/map_colabs.png" alt="Mapa de distribuição dos colaboradores do GEMP" width = "100%">
 
+#### Africa
+* –
+
+#### Ásia
+* Alain Jacquet - Chulalongkorn University, Tailândia
+
+#### Oceania
+* Phillip Hansbro – University of Technology Sydney, Australia
+
 #### Américas
-* Guilhermo Docena – Universidad de La Plata, Argentina
-* Pablo Romagno – Universidad de La Plata, Argentina
+* Pablo Romagnoli – Instituto Universitario de Ciencias Biomédicas de Córdoba, Argentina
+* Guilhermo Docena – Universidad Nacional de La Plata, Argentina
+* Fernando Chirdo – Universidad Nacional de La Plata, Argentina
+* Martin Rumbo – Universidad Nacional de La Plata, Argentina
+* Jean Guy Leblanc – Centro de Referencia para Lactobacilos (CERELA-CONICET), Argentina
+* Jonathan Laiño – Centro de Referencia para Lactobacilos (CERELA-CONICET), Argentina
 * Leticia Fierros – Universidad Nacional de México (UNAM), México
 * Michalel Schnorr – Universidad Nacional de México (UNAM), México
 * Leopoldo Argumedo – CINVESTAV, México
 * Maria Adelaida Gomes – ICESI University, Colômbia
-* Howard Weiner – Harvard Medical School, Boston
-* Rafael Rezende – Harvard Medical School, Boston
-* Thais Moreira – Harvard Medical School, Boston
-* Daniel Mucida – The Rockefeller University, Nova York
-* Maria Curotto de Lafaille – Mount Sinai Medical Center, Nova York
-* Cecília Canesso – Einstein College of Medicine, Nova York
+* Cathy McCoy – University of Calgary, Canada
+* Howard Weiner – Harvard Medical School, EUA
+* Rafael Rezende – Harvard Medical School, EUA
+* Thais Moreira – Harvard Medical School, EUA
+* Daniel Mucida – The Rockefeller University, EUA
+* Sérgio Lira – Mount Sinai Medical Center, EUA
+* Gláucia Furtado - Mount Sinai Medical Center, EUA
+* Maria Curotto de Lafaille – Mount Sinai Medical Center, EUA
+* Juan Lafaille – NYU Grossman School of Medicine, EUA
+* Cecília Canesso – Einstein College of Medicine, EUA
 
 #### Europa
 * Jean-Marc Chatel – Institute Micolis, INRA, França
 * Philippe Langela – Institute Micolis, INRA, França
+* Yasmine Belkaid – Pasteur Institute, França
 * Luis Graça – Instituto de Medicina Molecular, Universidade de Lisboa, Portugal
 * Bruno Santos – Instituto de Medicina Molecular, Universidade de Lisboa, Portugal
 * Gustavo Ramos – University of Würzburg, Alemanha
 * Arne Akbar – University College London, Reino Unido
+* Azucena Salas – Hospital Clínic de Barcelona, Espanha
+
 
 Essas colaborações internacionais são fundamentais para o avanço de projetos em imunologia, com foco em novas abordagens terapêuticas e na compreensão dos mecanismos de doenças crônicas e infecciosas.
