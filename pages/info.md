@@ -74,7 +74,7 @@ Os integrantes do grupo mantém uma ampla rede de colaborações internacionais,
 
 <img src="../images/map_colabs.png" alt="Mapa de distribuição dos colaboradores do GEMP" width = "100%">
 
-#### Africa
+#### África
 * –
 
 #### Ásia
