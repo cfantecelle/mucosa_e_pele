@@ -48,6 +48,7 @@ Assim, o grupo organiza suas atividades de pesquisa em torno de eixos temáticos
     <li>FIOCRUZ-MG</li>
     <li>FIOCRUZ-RJ (IOC)</li>
     <li>UnB</li>
+    <li>UFBA</li>
     <li>UFMG</li>
     <li>UFV</li>
     <li>UFRJ</li>
