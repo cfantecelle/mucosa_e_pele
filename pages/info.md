@@ -59,7 +59,7 @@ Assim, o grupo organiza suas atividades de pesquisa em torno de eixos temáticos
     <li>UFES</li>
     <li>UFSC</li>
     <li>PUC-RS</li>
-    </u>
+    </u><br>
 
     <br>Para saber mais sobre os integrantes, <a href="({{ site.url }}{{ site.baseurl }}/group/">clique aqui</a>.
     </div>
