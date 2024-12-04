@@ -153,8 +153,8 @@ format: frontpage
 
 <br>
 <h3><center>Apoio:</center></h3> <br><br>
-<div class="carousel">
-    <div class="carousel-images">
+<div class="carousel-fp">
+    <div class="carousel-images-fp">
       {% for file in site.static_files %}
         {% if file.path contains '/images/sponsors/' %}
           <img src="{{ site.baseurl }}{{ file.path }}" alt="Sponsor Image">

@@ -23,8 +23,8 @@ function copyToClipboardWithSnackbar(element) {
 
 /* Carousel */
 document.addEventListener('DOMContentLoaded', function () {
-    const carouselImages = document.querySelector('.carousel-images');
-    const images = document.querySelectorAll('.carousel-images img');
+    const carouselImages = document.querySelector('.carousel-images-fp');
+    const images = document.querySelectorAll('.carousel-images-fp img');
     const totalImages = images.length / 2; // Considera as imagens duplicadas
     let index = 0;
   
