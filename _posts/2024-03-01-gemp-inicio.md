@@ -1,6 +1,6 @@
 ---
 layout: page
-subheadline:  "Notícias"
+subheadline:  "Inauguração"
 title:  "Boas vindas ao nosso novo site!"
 teaser: "O Grupo de Estudos em Mucosas e Pele tem o prazer de anunciar o lançamento do seu site oficial!"
 categories:

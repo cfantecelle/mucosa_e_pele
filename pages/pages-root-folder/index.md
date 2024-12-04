@@ -9,7 +9,7 @@ header:
   image_fullwidth: skin_header_01.png
 widget1:
   title: "Notícias"
-  url: 'http://cfantecelle.github.io/mucosa_e_pele/blog/'
+  url: '/blog/'
   image: widget-1-302x182.jpg
   text: 'Que tal acompanhar as notícias do Grupo de Estudos em Mucosas e Pele?'
 
@@ -24,7 +24,7 @@ widget1:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://cfantecelle.github.io/mucosa_e_pele/info/
+  url: /info/
   text: Clique aqui para saber mais sobre o GEMP
   style: alert
 permalink: /index.html
