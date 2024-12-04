@@ -332,7 +332,59 @@ button, .button         { letter-spacing: 1px; }
 }
 
 
-/* */
+/* Carousel */
+.carousel {
+  position: relative;
+  width: 100vw;  /* Garantir que ocupe 100% da largura da viewport */
+  height: 100px;  /* Altura fixa para o carrossel */
+  margin: 0;      /* Remover margem para evitar deslocamento */
+  overflow: hidden;
+}
+
+.carousel-images {
+  display: flex;
+  animation: scroll 30s linear infinite;
+  gap: 100px;
+  justify-content: center;
+}
+
+.carousel-images img {
+  height: 100px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+/* Gradientes ajustados para cobrir a tela inteira */
+.carousel::before,
+.carousel::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 10vw; /* Ajuste para cobrir 10% da largura da tela */
+  height: 100%;
+  background: linear-gradient(to right, rgba(255, 255, 255, 1), transparent);
+  z-index: 1;
+}
+
+.carousel::after {
+  right: 0;
+  background: linear-gradient(to left, rgba(255, 255, 255, 1), transparent);
+}
+
+
+
+
+
 /* Side-Nav
 ------------------------------------------------------------------- */
 

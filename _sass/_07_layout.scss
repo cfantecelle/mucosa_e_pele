@@ -249,7 +249,7 @@ body.video cite { color: #fff; }
 ------------------------------------------------------------------- */
 
 #up-to-top {
-    padding: 160px 0 10px 0;
+    padding: 50px 0 10px 0;
 }
 #up-to-top a {
     font-size: 24px;
@@ -272,8 +272,8 @@ body.video cite { color: #fff; }
 }
 
 #footer {
-    padding-top: 30px;
-    padding-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background: $footer-bg;
     color: $footer-color;
     }
@@ -296,7 +296,12 @@ body.video cite { color: #fff; }
 #subfooter {
     background: $subfooter-bg;
     color: $subfooter-color;
-    padding-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+    p {
+        margin: 0px;
+    }
 }
 
 #subfooter-left ul.inline-list {
@@ -313,11 +318,11 @@ body.video cite { color: #fff; }
 }
 
 .social-icons {
-    margin-bottom: 10px !important;
-
+    margin-bottom: 0px !important; /*original 10px*/
+    
 // Beware of SCSS-Syntax here
   li {
-    padding: 0 0 20px 0;
+    padding: 0 0 0px 0;
   }
   a {
     font-size: rem-calc(23);
