@@ -61,7 +61,7 @@ Assim, o grupo organiza suas atividades de pesquisa em torno de eixos temáticos
     <li>PUC-RS</li>
     </u><br>
 
-    <br>Para saber mais sobre os integrantes, <a href="({{ site.url }}{{ site.baseurl }}/group/">clique aqui</a>.
+    <br>Para saber mais sobre os integrantes, <a href="{{ site.baseurl }}/group/">clique aqui</a>.
     </div>
 
     <img src="../images/map_pesquisadores.png" alt="Mapa de distribuição dos pesquisadores do GEMP" width = "55%" style="margin:-40px 0px 0px 0px">
