@@ -44,6 +44,9 @@ include.categories
           {% if post.website %}
           <a href="{{ post.website }}" id="groupsite_button" target="_blank"><b>Página do grupo</b></a>
           {% endif %}
+          {% if post.include_email %}
+          <a href="javascript:void(0)" id="email_button" data-copy="{{ post.email }}" onclick="copyToClipboardWithSnackbar(this)"><b>E-mail</b></a>
+          {% endif %}
           {% if post.lattes %}
           <a href="{{ post.lattes }}" id="lattes_button" target="_blank"><b>Lattes</b></a>
           {% endif %}
@@ -53,9 +56,7 @@ include.categories
           {% if post.twitter %}
           <a href="{{ post.twitter }}" id="twitter_button" target="_blank"><b>X (Twitter)</b></a>
           {% endif %}
-          {% if post.include_email %}
-          <a href="" id="email_button" target="_blank"><b>{{ post.email }}</b></a>
-          {% endif %}
+          
         </p>
     </div>
     </div>

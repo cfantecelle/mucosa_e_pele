@@ -291,6 +291,47 @@ button, .button         { letter-spacing: 1px; }
   }
 }
 
+/* SNACKBAR */
+.snackbar {
+  visibility: hidden; /* Escondido por padrão */
+  min-width: 200px; /* Menor largura */
+  max-width: 300px; /* Tamanho máximo */
+  margin-left: -150px; /* Para centralizar */
+  background-color: $ci-6; /* Usando a cor principal */
+  color: #fff; /* Texto branco */
+  text-align: center;
+  border-radius: 6px; /* Bordas levemente arredondadas */
+  padding: 10px 15px; /* Espaçamento reduzido */
+  position: fixed;
+  z-index: 1000; /* Sempre acima de outros elementos */
+  left: 50%; /* Centralizado horizontalmente */
+  bottom: 20px; /* Mais próximo do rodapé */
+  font-size: 14px; /* Texto menor */
+  font-weight: 400; /* Peso mais leve */
+  fonr-family: "Lato";
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.15); /* Sombra mais leve */
+  opacity: 0;
+  transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.3s ease;
+  transform: translateY(15px); /* Começa ligeiramente deslocado para baixo */
+}
+
+.snackbar.show {
+  visibility: visible;
+  opacity: 1;
+  transform: translateY(0); /* Move para a posição final */
+}
+
+.snackbar::after {
+  content: ""; /* Pequeno detalhe decorativo */
+  display: block;
+  width: 50px; /* Menor largura */
+  height: 2px; /* Menor altura */
+  background-color: #fff; /* Cor contrastante */
+  margin: 8px auto 0; /* Espaçamento ajustado */
+  border-radius: 1.5px;
+}
+
+
 /* */
 /* Side-Nav
 ------------------------------------------------------------------- */

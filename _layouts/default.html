@@ -5,6 +5,7 @@ layout: compress
 <html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
 <head>
 	{% include _head.html %}
+	<script src="{{ '/assets/js/copy.js' | relative_url }}"></script>
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
 	{% unless page.skip_boilerplate %}
@@ -19,5 +20,8 @@ layout: compress
 	{% endunless %}
 
 	{% include _footer_scripts.html %}
+
+	<div id="snackbar" class="snackbar">Texto copiado com sucesso!</div>
+	
 </body>
 </html>
