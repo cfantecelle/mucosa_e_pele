@@ -12,7 +12,8 @@ tags:
     - Immunology Letters
 header: yes
 
-pub_id: "<b>doi: 10.1016/j.imlet.2022.07.005</b> "
+pub_id: "10.1016/j.imlet.2022.07.005"
+id_type: DOI
 pub_link: https://www.sciencedirect.com/science/article/pii/S0165247822001043?via%3Dihub
 pub_date: 16/07/2022
 journal: Immunology Letters

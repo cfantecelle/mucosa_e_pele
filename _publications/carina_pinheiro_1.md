@@ -12,7 +12,8 @@ tags:
     - Molecular Immunology
 header: yes
 
-pub_id: "<b>doi:</b> 10.1016/j.molimm.2020.05.011"
+pub_id: "10.1016/j.molimm.2020.05.011"
+id_type: DOI
 pub_link: https://www.sciencedirect.com/science/article/pii/S0161589020303527?via%3Dihub
 pub_date: 13/06/2020
 journal: Molecular Immunology

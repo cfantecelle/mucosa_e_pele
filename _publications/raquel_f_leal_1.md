@@ -12,7 +12,8 @@ tags:
     - Journal of Translational Medicine
 header: yes
 
-pub_id: "<b>doi: 10.1186/s12967-020-02220-3</b> "
+pub_id: "10.1186/s12967-020-02220-3"
+id_type: DOI
 pub_link: https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-020-02220-3
 pub_date: 30/01/2020
 journal: Journal of Translational Medicine

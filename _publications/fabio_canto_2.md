@@ -12,7 +12,8 @@ tags:
     - Scientific Reports
 header: yes
 
-pub_id: "<b>doi: 10.1038/srep28573</b> "
+pub_id: "10.1038/srep28573"
+id_type: DOI
 pub_link: https://www.nature.com/articles/srep28573
 pub_date: 29/06/2016
 journal: Scientific Reports

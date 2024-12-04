@@ -12,7 +12,8 @@ tags:
     - Metabolites
 header: yes
 
-pub_id: "<b>doi:10.3390/metabo13020291</b> "
+pub_id: "10.3390/metabo13020291"
+id_type: DOI
 pub_link: https://www.mdpi.com/2218-1989/13/2/291
 pub_date: 16/02/2023
 journal: Metabolites

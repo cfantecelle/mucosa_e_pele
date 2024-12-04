@@ -39,7 +39,7 @@ include.categories
     <strong>Periódico:</strong><i> {{ post.journal }}</i> <br>
     <div id="publication_space">
       <a href="{{ post.pub_link }}" id="website_button"><b>Página do artigo</b></a>
-      <a href="#" id="id_button">{{ post.pub_id }}</a>
+      <a href="javascript:void(0)" id="id_button" data-copy="{{ post.pub_id }}" onclick="copyToClipboardWithSnackbar(this)">{{post.id_type}}</a>
     </div>
     <br>
   </li>

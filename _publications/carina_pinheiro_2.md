@@ -12,7 +12,8 @@ tags:
     - Vaccine
 header: yes
 
-pub_id: "<b>doi: j.vaccine.2021.12.052</b> "
+pub_id: "j.vaccine.2021.12.052"
+id_type: DOI
 pub_link: https://www.sciencedirect.com/science/article/pii/S0264410X21016601?via%3Dihub
 pub_date: 07/01/2022
 journal: Vaccine

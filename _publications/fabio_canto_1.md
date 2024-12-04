@@ -12,7 +12,8 @@ tags:
     - International Immunology
 header: yes
 
-pub_id: "<b>doi: 10.1093/intimm/dxy011</b> "
+pub_id: "10.1093/intimm/dxy011"
+id_type: DOI
 pub_link: https://academic.oup.com/intimm/article/30/4/155/4840586
 pub_date: 06/02/2018
 journal: International Immunology

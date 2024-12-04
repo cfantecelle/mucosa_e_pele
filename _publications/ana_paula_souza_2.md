@@ -12,7 +12,8 @@ tags:
     - Nature Communications
 header: yes
 
-pub_id: "<b>doi:</b> 10.1038/s41467-019-11152-6"
+pub_id: "10.1038/s41467-019-11152-6"
+id_type: DOI
 pub_link: https://www.nature.com/articles/s41467-019-11152-6
 pub_date: 22/07/2019
 journal: Nature Communications

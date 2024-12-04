@@ -12,7 +12,8 @@ tags:
     - Scientific Reports
 header: yes
 
-pub_id: "<b>doi: s41598-024-80051-8</b> "
+pub_id: "s41598-024-80051-8"
+id_type: DOI
 pub_link: https://www.nature.com/articles/s41598-024-80051-8
 pub_date: 20/11/2024
 journal: Scientific Reports

@@ -12,7 +12,8 @@ tags:
     - Frontiers in Immunology
 header: yes
 
-pub_id: "<b>doi: 10.3389/fimmu.2023.1141731</b> "
+pub_id: "10.3389/fimmu.2023.1141731"
+id_type: DOI
 pub_link: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2023.1141731/full
 pub_date: 09/06/2023
 journal: Frontiers in Immunology
