@@ -12,7 +12,8 @@ tags:
     -
 header: yes
 
-pub_id: "<b>doi:</b> "
+pub_id: ""
+id_type:
 pub_link: 
 pub_date: 
 journal: 
