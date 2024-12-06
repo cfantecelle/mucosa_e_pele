@@ -5,8 +5,8 @@ photo: "group/daniel_gomes.gif"
 institution: Universidade Federal do Espírito Santo (UFES)
 group_name: Laboratório de Imunobiologia
 research: Imunologia — Senescência — Leishmania
-description: Daniel Gomes é Professor Titular de Imunologia na UFES e atualmente coordenador conjunto do Núcleo de Doenças Infecciosas da mesma instituição. Também coordena o Laboratório de Imunobiologia, onde desenvolve pesquisas principalmente no âmbito da senescência celular durante a infecção por parasitos do gênero <i>Leishmania</i>.
-desc_source: Texto fornecido pelo(a) autor(a).
+description: Possui graduação em Ciências Biológicas pela Universidade Federal de Ouro Preto (2003), mestrado em Ciências Biológicas (Biofísica) pela Universidade Federal do Rio de Janeiro (2005) e doutorado em Ciências Biológicas (Biofísica) pela Universidade Federal do Rio de Janeiro e Harvard Medical School (Boston-USA). Atualmente é professor associado da Universidade Federal do Espírito Santo e atua em projetos que vislumbram o impacto da imunosenescência de células T e NK na imunopatogênese da Leishmaniose cutânea humana. Além disso, atua em projetos associados a diferenciação de células residêntes de memória e imunoregulação durante a leishmaniose cutânea..
+desc_source: Texto retirado do Currículo Lattes.
 website: 
 twitter: 
 instagram: 

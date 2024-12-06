@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Célio Geraldo Freire de Lima
-photo: "group/placeholder.png"
+photo: "group/celio_freire_lima.gif"
 institution: Universidade Federal do Rio de Janeiro (UFRJ)
 group_name: Laboratório de Imunomodulação (LABIM)
 research: Imunologia Celular — Imunomodulação — Imunoparasitologia

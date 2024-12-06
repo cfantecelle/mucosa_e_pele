@@ -1,7 +1,7 @@
 ---
 subheadline:
 name:  Raquel Franco Leal
-photo: "group/raquel_f_leal.jpeg"
+photo: "group/raquel_f_leal.jpg"
 institution: Universidade Estadual de Campinas (UNICAMP)
 group_name: Laboratório de Investigação em Doenças Inflamatórias Intestinais (LabDII)
 research: Doenças Inflamatórias Intestinais — Biomarcadores — Alvos terapêuticos — Inflamação — Vias de sinalização celular — Alterações imunológicas — Alterações moleculares
