@@ -333,57 +333,69 @@ button, .button         { letter-spacing: 1px; }
 
 
 /* Carousel */
+/* Estilo principal do carrossel */
 .carousel-fp {
-  position: relative;
-  width: 100vw;  /* Garantir que ocupe 100% da largura da viewport */
-  height: 100px;  /* Altura fixa para o carrossel */
-  margin: 0;      /* Remover margem para evitar deslocamento */
+  width: 100vw;
+  height: 120px; /* Ajuste conforme necessário */
   overflow: hidden;
+  position: relative;
 }
 
+/* Contêiner das imagens */
 .carousel-images-fp {
   display: flex;
-  animation: scroll 30s linear infinite;
-  gap: 100px;
-  justify-content: center;
+  gap: 100px; /* Espaçamento entre as imagens */
+  animation: scroll 30s linear infinite; /* Animação contínua */
+  will-change: transform; /* Otimização para animação */
 }
 
 .carousel-images-fp img {
-  height: 100px;
-  object-fit: cover;
-  border-radius: 6px;
-  flex-shrink: 0;
+  height: 100px; /* Altura máxima das imagens */
+  object-fit: contain; /* Garante que as imagens fiquem proporcionais */
 }
 
+/* Gradiente nas laterais */
+.carousel-fp::before,
+.carousel-fp::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  width: 10%;
+  height: 100%;
+  z-index: 1;
+  pointer-events: none;
+}
+
+.carousel-fp::before {
+  left: 0;
+  background: linear-gradient(to right, white, rgba(255, 255, 255, 0));
+}
+
+.carousel-fp::after {
+  right: 0;
+  background: linear-gradient(to left, white, rgba(255, 255, 255, 0));
+}
+
+/* Animação do carrossel */
 @keyframes scroll {
   0% {
     transform: translateX(0);
   }
   100% {
-    transform: translateX(-50%);
+    transform: translateX(-100%);
   }
 }
 
-/* Gradientes ajustados para cobrir a tela inteira */
-.carousel-fp::before,
-.carousel-fp::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  width: 10vw; /* Ajuste para cobrir 10% da largura da tela */
-  height: 100%;
-  background: linear-gradient(to right, rgba(255, 255, 255, 1), transparent);
-  z-index: 1;
+/* Ajustes para dispositivos móveis */
+@media (max-width: 768px) {
+  .carousel-images-fp {
+    gap: 20px; /* Reduz o espaço entre as imagens no mobile */
+  }
+
+  .carousel-images-fp img {
+    height: 80px; /* Reduz o tamanho das imagens no mobile */
+  }
 }
-
-.carousel-fp::after {
-  right: 0;
-  background: linear-gradient(to left, rgba(255, 255, 255, 1), transparent);
-}
-
-
-
-
 
 /* Side-Nav
 ------------------------------------------------------------------- */
