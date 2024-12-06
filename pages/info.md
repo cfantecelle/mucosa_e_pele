@@ -4,8 +4,8 @@ title: "Sobre Nós"
 subheadline: ""
 teaser: "Em construção..."
 permalink: "/info/"
-header:
-    image_fullwidth: "skin_header_01.png"
+# header:
+#     image_fullwidth: "skin_header_01.png"
 ---
 
 # Grupo de Estudos em Mucosas e Pele

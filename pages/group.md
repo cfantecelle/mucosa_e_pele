@@ -4,8 +4,8 @@ title: "Integrantes"
 subheadline: ""
 teaser: ""
 permalink: "/group/"
-header:
-    image_fullwidth: "skin_header_01.png"
+# header:
+#     image_fullwidth: "skin_header_01.png"
 ---
 
 # Integrantes

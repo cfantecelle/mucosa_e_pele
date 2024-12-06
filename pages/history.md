@@ -4,8 +4,8 @@ title: "Histórico"
 subheadline: ""
 teaser: "O Grupo de Estudos em Mucosas e Pele tem suas raízes em diversas iniciativas científicas colaborativas que fortalecem a pesquisa na área de imunologia de mucosas e pele."
 permalink: "/history/"
-header:
-    image_fullwidth: "skin_header_01.png"
+# header:
+#     image_fullwidth: "skin_header_01.png"
 ---
 
 # O Grupo de Estudos em Mucosa e Pele

@@ -5,8 +5,8 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  image_fullwidth: skin_header_01.png
+#header:
+#  image_fullwidth: skin_header_01.png
 widget1:
   title: "Notícias"
   url: '/blog/'
