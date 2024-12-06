@@ -22,36 +22,41 @@ function copyToClipboardWithSnackbar(element) {
   }
 
 /* Carousel */
-document.addEventListener('DOMContentLoaded', function () {
-    const carouselImages = document.querySelector('.carousel-images-fp');
-    const images = document.querySelectorAll('.carousel-images-fp img');
-    const totalImages = images.length / 2; // Considera as imagens duplicadas
-    let index = 0;
-  
-    // Função para mostrar a próxima imagem
-    function showNextImage() {
-      // Atualiza o índice
-      index++;
-  
-      // Verifica se atingiu a última imagem
-      if (index >= totalImages) {
-        // Faz o reset do carrossel para o início
-        carouselImages.style.transition = "none"; // Remove a transição
-        carouselImages.style.transform = `translateX(0)`; // Reseta o carrossel
-        index = 0; // Reseta o índice para reiniciar o ciclo
-  
-        // Reaplica a transição após um pequeno delay
-        setTimeout(function () {
-          carouselImages.style.transition = "transform 0.5s ease-in-out"; // Reaplica a transição suave
-        }, 50); // Pequeno delay para garantir o reset da transição
-      }
-  
-      // Move o carrossel para a próxima imagem
-      const offset = index * -100; // Move o carrossel para a próxima posição
-      carouselImages.style.transform = `translateX(${offset}%)`;
-    }
-  
-    // Ciclo automático a cada 3 segundos
-    setInterval(showNextImage, 3000);
+document.addEventListener('DOMContentLoaded', function() {
+  const carousel = document.querySelector('.carousel-images-fp');
+  const images = document.querySelectorAll('.carousel-images-fp img');
+
+  // Duplicar as imagens para criar um loop contínuo
+  images.forEach(img => {
+    const clone = img.cloneNode(true);
+    carousel.appendChild(clone); // Adiciona uma cópia da imagem
   });
-      
+
+  let width = 0;
+  // Calcular a largura total do carrossel (com todas as imagens)
+  images.forEach(img => {
+    width += img.offsetWidth + 100; // Considerando o gap de 100px
+  });
+
+  // Aplicar a largura total ao container
+  carousel.style.width = width * 2 + 'px'; // Duplicando o comprimento do carrossel
+
+  function moveCarousel() {
+    let currentTransform = parseInt(carousel.style.transform.replace('translateX(', '').replace('px)', '')) || 0;
+    let newTransform = currentTransform - (images[0].offsetWidth + 100); // Move uma imagem por vez
+    if (newTransform <= -width) {
+      newTransform = 0; // Resetar para o início do carrossel
+    }
+    carousel.style.transform = `translateX(${newTransform}px)`;
+  }
+
+  setInterval(moveCarousel, 50); // Move o carrossel a cada 50ms
+});
+
+
+
+
+
+
+
+

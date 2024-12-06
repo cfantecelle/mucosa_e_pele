@@ -160,12 +160,28 @@ format: frontpage
           <img src="{{ site.baseurl }}{{ file.path }}" alt="Sponsor Image">
         {% endif %}
       {% endfor %}
-      <!-- Duplicando as imagens para criar o efeito de loop -->
+      {% for file in site.static_files %}
+        {% if file.path contains '/images/sponsors/' %}
+          <img src="{{ site.baseurl }}{{ file.path }}" alt="Sponsor Image">
+        {% endif %}
+      {% endfor %}
+      {% for file in site.static_files %}
+        {% if file.path contains '/images/sponsors/' %}
+          <img src="{{ site.baseurl }}{{ file.path }}" alt="Sponsor Image">
+        {% endif %}
+      {% endfor %}
+      {% for file in site.static_files %}
+        {% if file.path contains '/images/sponsors/' %}
+          <img src="{{ site.baseurl }}{{ file.path }}" alt="Sponsor Image">
+        {% endif %}
+      {% endfor %}
       {% for file in site.static_files %}
         {% if file.path contains '/images/sponsors/' %}
           <img src="{{ site.baseurl }}{{ file.path }}" alt="Sponsor Image">
         {% endif %}
       {% endfor %}
     </div>
-</div>
+  </div>
+  
+  
   
