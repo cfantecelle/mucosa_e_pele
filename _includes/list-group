@@ -28,6 +28,88 @@ include.categories
   {% if category == NULL and tag == NULL %}
 
   {% for post in site.[include.collection] limit:include.entries offset:include.offset %}
+  {% if post.name == "Ana Maria Caetano Faria" or post.name == "Cláudia Ida Brodskyn" %}
+
+  <li>
+    <div class="group_img">
+      {% if post.photo %}
+      <img src="{{ site.urlimg }}{{ post.photo }}" alt="{{ post.name escape_once }}">
+      {% endif %}
+      <div class="text-block">
+        <h4><strong>{{ post.name }}</strong></h4>
+        {% if post.research %} <sup>{{ post.research }}</sup> <br> {% endif %}
+        <b>Instituição:</b> {{ post.institution }} <br>
+        {% if post.group_name %} <b> Grupo de Pesquisa: </b> {{ post.group_name }} <br> {% endif %}
+        <p> 
+          <br> {{ post.description }} <br>
+          <sup> {{ post.desc_source }} </sup> <br>
+          {% if post.website %}
+          <a href="{{ post.website }}" id="groupsite_button" target="_blank"><b>Página do grupo</b></a>
+          {% endif %}
+          {% if post.include_email %}
+          <a href="javascript:void(0)" id="email_button" data-copy="{{ post.email }}" onclick="copyToClipboardWithSnackbar(this)"><b>E-mail</b></a>
+          {% endif %}
+          {% if post.lattes %}
+          <a href="{{ post.lattes }}" id="lattes_button" target="_blank"><b>Lattes</b></a>
+          {% endif %}
+          {% if post.instagram %}
+          <a href="{{ post.instagram }}" id="instagram_button" target="_blank"><b>Instagram</b></a>
+          {% endif %}
+          {% if post.twitter %}
+          <a href="{{ post.twitter }}" id="twitter_button" target="_blank"><b>X (Twitter)</b></a>
+          {% endif %}
+          
+        </p>
+    </div>
+    </div>
+  </li>
+  {% endif %}
+  {% endfor %}
+
+  {% for post in site.[include.collection] limit:include.entries offset:include.offset %}
+  {% if post.name != "Ana Maria Caetano Faria" and post.name != "Cláudia Ida Brodskyn" %}
+  <li>
+    <div class="group_img">
+      {% if post.photo %}
+      <img src="{{ site.urlimg }}{{ post.photo }}" alt="{{ post.name escape_once }}">
+      {% endif %}
+      <div class="text-block">
+        <h4><strong>{{ post.name }}</strong></h4>
+        {% if post.research %} <sup>{{ post.research }}</sup> <br> {% endif %}
+        <b>Instituição:</b> {{ post.institution }} <br>
+        {% if post.group_name %} <b> Grupo de Pesquisa: </b> {{ post.group_name }} <br> {% endif %}
+        <p> 
+          <br> {{ post.description }} <br>
+          <sup> {{ post.desc_source }} </sup> <br>
+          {% if post.website %}
+          <a href="{{ post.website }}" id="groupsite_button" target="_blank"><b>Página do grupo</b></a>
+          {% endif %}
+          {% if post.include_email %}
+          <a href="javascript:void(0)" id="email_button" data-copy="{{ post.email }}" onclick="copyToClipboardWithSnackbar(this)"><b>E-mail</b></a>
+          {% endif %}
+          {% if post.lattes %}
+          <a href="{{ post.lattes }}" id="lattes_button" target="_blank"><b>Lattes</b></a>
+          {% endif %}
+          {% if post.instagram %}
+          <a href="{{ post.instagram }}" id="instagram_button" target="_blank"><b>Instagram</b></a>
+          {% endif %}
+          {% if post.twitter %}
+          <a href="{{ post.twitter }}" id="twitter_button" target="_blank"><b>X (Twitter)</b></a>
+          {% endif %}
+          
+        </p>
+    </div>
+    </div>
+  </li>
+  {% endif %}
+  {% endfor %}
+
+
+  {% elsif category %}
+
+  {% for post in site.[include.collection] limit:include.entries offset:include.offset %}
+  {% if post.name == "Ana Maria Caetano Faria" | post.name == "Cláudia Ida Brodskyn" %}
+
   <li>
     <div class="group_img">
       {% if post.photo %}
@@ -61,34 +143,45 @@ include.categories
     </div>
     </div>
   </li>
+  {% endif %}
   {% endfor %}
 
-
-  {% elsif category %}
-
-  {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
+  {% for post in site.[include.collection] limit:include.entries offset:include.offset %}
+  {% if post.name != "Ana Maria Caetano Faria" & post.name != "Cláudia Ida Brodskyn" %}
   <li>
-    <br>
-    {% if post.photo %}<img src="{{ site.urlimg }}{{ post.photo }}" class="alignleft" width="150" height="150" alt="{{ post.name escape_once }}">{% endif %}
-    <h6><strong>{{ post.name }}</strong></h6>
-    {{ post.description }} <br><br>
-    {{ post.research }}
-
+    <div class="group_img">
+      {% if post.photo %}
+      <img src="{{ site.urlimg }}{{ post.photo }}" alt="{{ post.name escape_once }}">
+      {% endif %}
+      <div class="text-block">
+        <h4><strong>{{ post.name }}</strong></h4>
+        <sup>{{ post.research }}</sup> <br>
+        <b>Instituição:</b> {{ post.institution }} <br>
+        <b> Grupo de Pesquisa: </b> {{ post.group_name }} <br>
+        <p> 
+          <br> {{ post.description }} <br>
+          <sup> {{ post.desc_source }} </sup> <br>
+          {% if post.website %}
+          <a href="{{ post.website }}" id="groupsite_button" target="_blank"><b>Página do grupo</b></a>
+          {% endif %}
+          {% if post.include_email %}
+          <a href="javascript:void(0)" id="email_button" data-copy="{{ post.email }}" onclick="copyToClipboardWithSnackbar(this)"><b>E-mail</b></a>
+          {% endif %}
+          {% if post.lattes %}
+          <a href="{{ post.lattes }}" id="lattes_button" target="_blank"><b>Lattes</b></a>
+          {% endif %}
+          {% if post.instagram %}
+          <a href="{{ post.instagram }}" id="instagram_button" target="_blank"><b>Instagram</b></a>
+          {% endif %}
+          {% if post.twitter %}
+          <a href="{{ post.twitter }}" id="twitter_button" target="_blank"><b>X (Twitter)</b></a>
+          {% endif %}
+          
+        </p>
+    </div>
+    </div>
   </li>
-  {% endfor %}
-
-
-  {% elsif tag %}
-
-  {% for post in site.tags.[tag] limit:include.entries %}
-  <li>
-    <br>
-    {% if post.photo %}<img src="{{ site.urlimg }}{{ post.photo }}" class="alignleft" width="150" height="150" alt="{{ post.name escape_once }}">{% endif %}
-    <h6><strong>{{ post.name }}</strong></h6>
-    {{ post.description }} <br><br>
-    <h7>{{ post.research }} </h7>
-
-  </li>
+  {% endif %}
   {% endfor %}
 
   {% endif %}
