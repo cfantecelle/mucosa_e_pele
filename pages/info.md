@@ -42,8 +42,7 @@ Assim, o grupo organiza suas atividades de pesquisa em torno de eixos temáticos
 
 <div class="flex_img">
     <div class="text-block">
-    Atualmente, o grupo conta com uma extensa lista de integrantes e a participação das seguintes instituições: <br><br>
-    <u>
+    Atualmente, o grupo conta com uma extensa lista de integrantes e a participação das seguintes instituições: <br><br>    
     <li>FIOCRUZ-RD</li>
     <li>FIOCRUZ-BA</li>
     <li>FIOCRUZ-CE</li>
@@ -61,13 +60,10 @@ Assim, o grupo organiza suas atividades de pesquisa em torno de eixos temáticos
     <li>UFES</li>
     <li>UFSC</li>
     <li>PUC-RS</li>
-    </u><br>
-
+    <br>
     <br>Para saber mais sobre os integrantes, <a href="{{ site.baseurl }}/group/">clique aqui</a>.
     </div>
-
-    <img src="../images/map_pesquisadores.png" alt="Mapa de distribuição dos pesquisadores do GEMP" width = "55%" style="margin:-40px 0px 0px 0px">
-    
+    <img src="../images/map_pesquisadores.png" alt="Mapa de distribuição dos pesquisadores do GEMP" width = "55%" style="margin:-40px 0px 0px 0px"> 
 </div>
 
 ## Colaborações internacionais
@@ -77,10 +73,10 @@ Os integrantes do grupo mantém uma ampla rede de colaborações internacionais,
 <img src="../images/map_colabs.png" alt="Mapa de distribuição dos colaboradores do GEMP" width = "100%">
 
 #### África
-* –
+* Ramona Hurdayal – University of Cape Town, África do Sul
 
 #### Ásia
-* Alain Jacquet - Chulalongkorn University, Tailândia
+* Alain Jacquet – Chulalongkorn University, Tailândia
 
 #### Oceania
 * Phillip Hansbro – University of Technology Sydney, Australia
