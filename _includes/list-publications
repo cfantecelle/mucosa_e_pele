@@ -38,7 +38,7 @@ include.categories
     <strong>Publicado em:</strong> {{ post.pub_date }} <br>
     <strong>Periódico:</strong><i> {{ post.journal }}</i> <br>
     <div id="publication_space">
-      <a href="{{ post.pub_link }}" id="website_button"><b>Página do artigo</b></a>
+      <a href="{{ post.pub_link }}" id="website_button" target="_blank"><b>Página do artigo</b></a>
       <a href="javascript:void(0)" id="id_button" data-copy="{{ post.pub_id }}" onclick="copyToClipboardWithSnackbar(this)">{{post.id_type}}</a>
     </div>
     <br>
@@ -57,7 +57,7 @@ include.categories
     <strong>Publicado em:</strong> {{ post.pub_date }} <br>
     <strong>Periódico:</strong><i> {{ post.journal }}</i> <br>
     <div id="publication_space">
-      <a href="{{ post.pub_link }}" id="website_button"><b>Link do artigo</b></a>
+      <a href="{{ post.pub_link }}" id="website_button" target="_blank"><b>Link do artigo</b></a>
       <a href="#" id="id_button">{{ post.pub_id }}</a>
     </div>
   </li>
@@ -75,7 +75,7 @@ include.categories
     <strong>Publicado em:</strong> {{ post.pub_date }} <br>
     <strong>Periódico:</strong><i> {{ post.journal }}</i> <br>
     <div id="publication_space">
-      <a href="{{ post.pub_link }}" id="website_button"><b>Link do artigo</b></a>
+      <a href="{{ post.pub_link }}" id="website_button" target="_blank"><b>Link do artigo</b></a>
       <a href="#" id="id_button">{{ post.pub_id }}</a>
     </div>
   </li>
