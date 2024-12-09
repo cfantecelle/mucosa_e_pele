@@ -4,13 +4,13 @@ name: Regis Bernardo Brandim Gomes
 photo: "group/regis_gomes.gif"
 institution: Fiocruz – CE
 group_name: 
-research: 
+research: Imunologia — Parasitologia — Flebotomíneos — Leishmania — Imunobiológicos
 description: "Possui graduação em Biologia pela Universidade Federal do Piaui (1997), mestrado em Patologia Experimental e doutorado em Patologia Humana pelo Centro de Pesquisas Gonçalo Moniz - UFBA (2001 e 2006, respectivamente). Fez pós-doutorado (Visiting Fellow) iniciado em 2006 no Vector Molecular Biology Section (NIH ? NIAID/ EUA) e finalizado em 2011. Em 2011, foi contratado como Research Fellow no mesmo departamento (VMBS). Em 2012 retornou ao CPqGM-FIOCRUZ/BA como bolsista do programa Jovens Talentos do Ciências Sem Fronteiras (CNPq). Passou no concurso da FIOCRUZ para Pesquisador em Saúde Pública em 2014 e foi Pesquisador e Coordenador do Escritório Técnico Regional da FIOCRUZ-PIAUÍ de 2015 a 2019. Atualmente é Pesquisador em Saúde Pública na FIOCRUZ-CEARÁ. Tem experiência na área de Imunologia e Parasitologia com ênfase na avaliação da resposta imune do hospedeiro vertebrado contra produtos da glândula salivar de flebotomineos e teste de vacinas baseadas na saliva de flebotomineos ou em antígenos da Leishmania, em modelos animais, contra a transmissão do vetor infectado."
 desc_source: "Texto retirado do Currículo Lattes."
 website: 
 twitter: 
 instagram: 
-lattes: 
+lattes: https://lattes.cnpq.br/2521004210048823
 email: rbrandim@gmail.com
 include_email: no
 categories:

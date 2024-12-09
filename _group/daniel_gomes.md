@@ -10,7 +10,7 @@ desc_source: Texto retirado do Currículo Lattes.
 website: 
 twitter: 
 instagram: 
-lattes: 
+lattes: http://lattes.cnpq.br/3965075540969796
 email: dgomes@ndi.ufes.br
 include_email: no
 categories:
