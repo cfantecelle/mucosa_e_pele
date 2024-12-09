@@ -1,7 +1,7 @@
 ---
 subheadline:
 name: Marco Aurélio Ramirez Vinolo
-photo: "group/placeholder.png"
+photo: "group/marco_aurelio_vinolo.jpg"
 institution: Universidade Estadual de Campinas (UNICAMP)
 group_name: International Laboratory for Microbiome Host Epigenetics
 research: Farmácia — Imunoinflamação — Ácidos graxos

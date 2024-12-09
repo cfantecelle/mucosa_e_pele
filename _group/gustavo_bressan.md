@@ -1,12 +1,12 @@
 ---
 subheadline:
 name: Gustavo Costa Bressan
-photo: "group/placeholder.png"
+photo: "group/gustavo_bressan.jpg"
 institution: Universidade Federal de Viçosa (UFV)
-group_name: "[Placeholder]"
-research: "[Placeholder]"
-description: "[Placeholder]"
-desc_source: "[Placeholder]"
+group_name: 
+research: 
+description: 
+desc_source: 
 website: 
 twitter: 
 instagram:  
