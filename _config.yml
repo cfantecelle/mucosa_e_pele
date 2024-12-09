@@ -190,6 +190,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
+      sort_reverse: true
       author: gemp     # Default author for posts
 
 
@@ -347,13 +348,13 @@ collections:
   events:
     output: true
     permalink: :collection/:title
-    sort_by: eventday
+    sort_reverse: true
   publications:
     output: false
-    sort_by: pub_date
+    sort_field: pub_date
   group:
     output: false
-    sort_by: name
+    sort_field: name
 
 
 

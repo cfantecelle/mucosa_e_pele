@@ -24,11 +24,15 @@
 
 {% assign category = include.category %}
 {% assign tag = include.tag %}
+{% assign sorted_events = site.events | sort:"eventday" | reverse %}
+
 <ul class="side-nav">
+  
+  
 
   {% if category == NULL and tag == NULL %}
 
-    {% for post in site.events limit:include.entries offset:include.offset %}
+    {% for post in sorted_events limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>

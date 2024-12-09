@@ -1,7 +1,7 @@
 ---
 layout: page
 subheadline:  "Congresso"
-title:  "Encontro anual do Fio-Mucosa srá realizado juntamente com o 47º Congresso da SBI"
+title:  "Encontro anual do Fio-Mucosa será realizado juntamente com o 47º Congresso da SBI"
 eventday: "2023-10-02"
 teaser: "O Encontro Anual do Programa de Pesquisa Translacional em Mucosa – Fio-Mucosa ocorrerá em conjunto com o 47º Congresso Anual da Sociedade Brasileira de Imunologia (SBI), de 2 a 6 de outubro de 2023, na cidade histórica de Ouro Preto, Minas Gerais."
 categories:
