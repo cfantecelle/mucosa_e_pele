@@ -1,9 +1,5 @@
 - menu_name: "Serviços"
 
-- name: "Contato"
-  url: "/contact/"
-  title: "Contato"
-
 - name: "RSS"
   url: "/feed.xml"
   title: "Subscribe to RSS Feed"
