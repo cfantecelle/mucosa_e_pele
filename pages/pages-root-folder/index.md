@@ -13,6 +13,18 @@ widget1:
   image: 
   text: 'O Grupo de Estudos em Mucosas e Pele (GEMP) reúne cientistas dedicados ao estudo das mucosas e pele, promovendo inovação científica e colaborativa para avanços em saúde.'
 
+widget2:
+  title: "Colaborações"
+  url: '/info/#colaborações-internacionais'
+  image: 
+  text: 'Atualmente, nossos pesquisadores apresentam mais de 30 colaborações internacionais ao todo! Confira mais sobre as nossas parcerias.'
+
+widget3:
+  title: "Publicações"
+  url: '/publications/'
+  image: 
+  text: "Nosso site conta com diversas publicações em destaque no âmbito de mucosas e pele, realizadas por membros do nosso grupo."
+
 #
 # Use the call for action to show a button on the frontpage
 #
