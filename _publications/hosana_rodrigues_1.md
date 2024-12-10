@@ -5,7 +5,6 @@ title:  "Abnormalities of Sphingolipids Metabolic Pathways in the Pathogenesis o
 teaser: ""
 abstract: "Psoriasis is immune-mediated skin disorder affecting thousands of people. Sphingolipids (SLs) are bioactive molecules present in the epidermis, involved in the following cellular processes: proliferation, differentiation, and apoptosis of keratinocytes. Alterations in SLs synthesis have been observed in psoriatic skin. To investigate if the imbalance in lipid skin metabolism could be related to psoriasis, we analyzed the gene expression in non-lesioned and lesioned skin of patients with psoriasis available in two datasets (GSE161683 and GSE136757) obtained from National Center for Biotechnology Information (NCBI). The differentially expressed genes (DEGs) were searched for using NCBI analysis, and Gene Ontology (GO) biological process analyses were performed using the Database of Annotation, Visualization, and Integrated Discovery (DAVID) platform. Venn diagrams were done with InteractiVenn tool and heatmaps were constructed using Morpheus software. We observed that the gene expression of cytoplasmic phospholipase A2 (PLA2G4D), glycerophosphodiester phosphodiesterase domain containing 3 (GDP3), arachidonate 12-lipoxygenase R type (ALOX12B), phospholipase B-like 1 (PLBD1), sphingomyelin phosphodiesterase 3 (SMPD3), ganglioside GM2 activator (GM2A), and serine palmitoyltransferase long chain subunit 2 (SPTLC2) was up-regulated in lesioned skin psoriasis when compared with the non-lesioned skin. These genes are related to lipid metabolism and more specifically to sphingolipids. So, in the present study, the role of sphingolipids in psoriasis pathogenesis is summarized. These genes could be used as prognostic biomarkers of psoriasis and could be targets for the treatment of patients who suffer from the disease."
 categories:
-    - Publicações
     - Artigo
 tags:
     - Artigo
@@ -15,7 +14,7 @@ header: yes
 pub_id: "10.3390/metabo13020291"
 id_type: DOI
 pub_link: https://www.mdpi.com/2218-1989/13/2/291
-pub_date: 16/02/2023
+pub_date: 2023-02-16
 journal: Metabolites
 authors: "Beatriz Burger, Roberta Nicolli Sagiorato, Isabella Cavenaghi, <b>Hosana Gomes Rodrigues</b>"
 ---

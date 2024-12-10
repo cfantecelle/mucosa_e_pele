@@ -9,7 +9,6 @@ Methods: We employed MerTk and Axl defective mice to induce acute silicosis by a
 
 Conclusion: This study provides strong evidence that MerTk and Axl are specialized to orchestrate apoptotic cell clearance across different circumstances and may have important implications for the understanding of pulmonary inflammatory disorders as well as for the development of new approaches to therapy."
 categories:
-    - Publicações
     - Artigo
 tags:
     - Artigo
@@ -19,7 +18,7 @@ header: yes
 pub_id: "10.3389/fimmu.2024.1380628"
 id_type: DOI
 pub_link: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1380628/full
-pub_date: 06/05/2024
+pub_date: 2024-05-06
 journal: Frontiers in Immunology
 authors: "Kamila Guimarães-Pinto, Monique Leandro, Antonia Corrêa, Ester P. Maia, Leticia Rodrigues, André Luiz Amorim da Costa, Jesuino Rafael Machado Ferreira,
 Estefannia Claudio-Etienne, Ulrich Siebenlist, Jianping He, Thaís da Silva Rigoni, Tatiana Paula Teixeira Ferreira, Yago Amigo Pinho Jannini-Sa, Herbert Leonel Matos-Guedes, Ana Caroline Costa-da-Silva, Marcela Freitas Lopes, Patricia Machado Rodrigues Silva, Brian Lee Kelsall, <b>Alessandra Almeida Filardy</b>"

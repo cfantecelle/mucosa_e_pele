@@ -23,11 +23,12 @@ include.categories
 
 {% assign category = include.category %}
 {% assign tag = include.tag %}
+{% assign publications = site.[include.collection] | sort: 'pub_date' | reverse %}
 <ul class="side-nav">
 
   {% if category == NULL and tag == NULL %}
 
-  {% for post in site.[include.collection] limit:include.entries offset:include.offset %}
+  {% for post in publications limit:include.entries offset:include.offset %}
   <li>
     <br>
     <p class="subheadline">{{ post.categories | join: ' &middot; ' | prepend: '<span class="subheader">' | append: '</span>' }}{% if post.categories != empty and post.subheadline != NULL %} – {% endif %}{{ post.subheadline }}</p>
@@ -35,7 +36,7 @@ include.categories
     <i>
       <h7>{{ post.authors }}</h7>
     </i> <br><br>
-    <strong>Publicado em:</strong> {{ post.pub_date }} <br>
+    <strong>Publicado em:</strong> {{ post.pub_date | date: "%d/%m/%Y" }} <br>
     <strong>Periódico:</strong><i> {{ post.journal }}</i> <br>
     <div id="publication_space">
       <a href="{{ post.pub_link }}" id="website_button" target="_blank"><b>Página do artigo</b></a>

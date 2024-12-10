@@ -351,10 +351,10 @@ collections:
     sort_reverse: true
   publications:
     output: false
-    sort_field: pub_date
+    sort_by: pub_date
   group:
     output: false
-    sort_field: name
+    sort_by: name
 
 
 
