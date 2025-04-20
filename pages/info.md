@@ -12,7 +12,7 @@ permalink: "/info/"
 
 ## Sobre nós
 
-O Instituto Nacional de Mucosas e Pele é uma rede colaborativa de pesquisadores dedicados ao estudo das doenças que afetam mucosas e pele, com ênfase em sua patogênese, imunologia e alternativas terapêuticas. Nosso objetivo é gerar conhecimento científico de excelência e promover inovações que contribuam para a prevenção, diagnóstico e tratamento de doenças infecciosas, virais, crônicas e imunológicas, impactando positivamente a saúde pública. Atuamos em projetos multidisciplinares que abrangem desde doenças negligenciadas até condições de alta prevalência, fortalecendo a integração entre instituições nacionais e internacionais, e formando novos talentos na área por meio de parcerias acadêmicas, eventos científicos e iniciativas de capacitação.
+O Instituto Nacional de Mucosas e Pele faz parte do [Programa Institutos Nacionais de Ciência, Tecnologia e Inovação do CNPq](http://inct.cnpq.br/) e é uma rede colaborativa de pesquisadores dedicados ao estudo das doenças que afetam mucosas e pele, com ênfase em sua patogênese, imunologia e alternativas terapêuticas. Nosso objetivo é gerar conhecimento científico de excelência e promover inovações que contribuam para a prevenção, diagnóstico e tratamento de doenças infecciosas, virais, crônicas e imunológicas, impactando positivamente a saúde pública. Atuamos em projetos multidisciplinares que abrangem desde doenças negligenciadas até condições de alta prevalência, fortalecendo a integração entre instituições nacionais e internacionais, e formando novos talentos na área por meio de parcerias acadêmicas, eventos científicos e iniciativas de capacitação.
 
 ## Histórico
 
