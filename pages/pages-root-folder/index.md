@@ -11,7 +11,7 @@ widget1:
   title: "Quem somos?"
   url: '/info/'
   image: 
-  text: 'O Grupo de Estudos em Mucosas e Pele (GEMP) reúne cientistas dedicados ao estudo das mucosas e pele, promovendo inovação científica e colaborativa para avanços em saúde.'
+  text: 'O Instituto Nacional de Mucosas e Pele (INMPe) reúne cientistas dedicados ao estudo das mucosas e pele, promovendo inovação científica e colaborativa para avanços em saúde.'
 
 widget2:
   title: "Colaborações"

@@ -2,17 +2,17 @@
 layout: page-fullwidth-noteaser
 title: "Histórico"
 subheadline: ""
-teaser: "O Grupo de Estudos em Mucosas e Pele tem suas raízes em diversas iniciativas científicas colaborativas que fortalecem a pesquisa na área de imunologia de mucosas e pele."
+teaser: "O Instituto Nacional de Mucosas e Pele tem suas raízes em diversas iniciativas científicas colaborativas que fortalecem a pesquisa na área de imunologia de mucosas e pele."
 permalink: "/history/"
 # header:
 #     image_fullwidth: "skin_header_01.png"
 ---
 
-# O Grupo de Estudos em Mucosa e Pele
+# O Instituto Nacional de Mucosas e Pele
 
 ## Criação
 
-O Grupo de Estudos em Mucosas e Pele (GEMP) tem suas raízes em diversas iniciativas científicas colaborativas que fortalecem a pesquisa na área de imunologia de mucosas e pele.
+O grupo tem suas raízes em diversas iniciativas científicas colaborativas que fortalecem a pesquisa na área de imunologia de mucosas e pele.
 
 Em 2016, foi criado o LAMIG (Latin American Mucosal Immunology Group), durante um encontro em Belo Horizonte. Associado à Society for Mucosal Immunology (SMI), o LAMIG reúne pesquisadores de países como Brasil, Argentina, Uruguai, Chile, Colômbia, México e Cuba. Suas atividades incluem cursos para estudantes, simpósios, conferências e eventos online, promovendo a troca de conhecimento na área.
 
@@ -21,3 +21,5 @@ Em 2018, foi estabelecido o Laboratório Internacional Associado (LIA), resultad
 O ano de 2020 marcou a institucionalização do Programa de Pesquisa Translacional em Mucosas (FIOMUCOSA) pela FIOCRUZ, por meio da portaria nº 24/08/2022. Esse programa reúne pesquisadores da FIOCRUZ e de outras instituições nacionais, com o objetivo de investigar a patogênese e desenvolver alternativas terapêuticas para doenças crônicas que afetam mucosas. O FIOMUCOSA organiza simpósios e encontros anuais, mantendo um calendário de atividades regulares.
 
 Mais recentemente, em 2022, foi criada a Rede Mineira de Mucosas e Pele, financiada pelo edital da FAPEMIG para redes de pesquisa. Composta por 12 instituições de Minas Gerais, a rede conduz projetos nas áreas de doenças infecciosas e crônicas que acometem mucosas e pele, promovendo avanços científicos e colaboração entre os participantes.
+
+Em 2025, nossa rede se consolidou após o grupo ser selecionado através do Edital CNPQ Nº 46/2024 - Programa Institutos Nacionais de Ciência e Tecnologia - INCT 2024, possibilitando a criação do ***INMPe — Instituto Nacional de Mucosas e Pele***! Isso representou o reconhecimento institucional da relevância científica e do potencial de impacto do nosso grupo nas áreas de pesquisa, formação de recursos humanos e inovação, e possibilitará o crescimento contínuo da ciência desenvolvida pelo grupo.
