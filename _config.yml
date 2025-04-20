@@ -25,8 +25,8 @@ author: inmpe
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://cfantecelle.github.io'
-baseurl: '/mucosa_e_pele'
+url: 'https://inmpe.net.br'
+baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
@@ -38,7 +38,7 @@ baseurl: '/mucosa_e_pele'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://cfantecelle.github.io/mucosa_e_pele/images/'
+urlimg: 'https://inmpe.net.br/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
