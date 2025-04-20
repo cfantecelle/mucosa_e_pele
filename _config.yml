@@ -181,7 +181,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: gemp     # Default author for posts
+      author: inmpe     # Default author for posts
   -
     scope:
       path: ''
@@ -191,7 +191,7 @@ defaults:
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
       sort_reverse: true
-      author: gemp     # Default author for posts
+      author: inmpe     # Default author for posts
 
 
 
