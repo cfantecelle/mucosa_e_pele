@@ -38,7 +38,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://inmpe.net.br/images/'
+urlimg: 'https://www.inmpe.net.br/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
